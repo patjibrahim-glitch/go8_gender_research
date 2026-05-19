@@ -674,10 +674,12 @@
         <div class="chart-subtitle">Female representation at junior (first) vs senior (last) authorship positions. A widening gap signals a pipeline problem.</div>
         <div class="chart-wrap tall"><canvas id="chart-pipeline"></canvas></div>
         <div class="legend">
-          <div class="legend-item"><div class="legend-dot" style="background:var(--female)"></div>Female first author %</div>
-          <div class="legend-item"><div class="legend-dot" style="background:var(--accent); opacity:0.5"></div>Female last author %</div>
+          <div class="legend-item"><div class="legend-dot" style="background:var(--female)"></div>Female first (solid)</div>
+          <div class="legend-item"><div class="legend-dot" style="background:var(--female);opacity:0.5"></div>Female last (dashed)</div>
+          <div class="legend-item"><div class="legend-dot" style="background:var(--male)"></div>Male first (solid)</div>
+          <div class="legend-item"><div class="legend-dot" style="background:var(--male);opacity:0.5"></div>Male last (dashed)</div>
         </div>
-        <p class="footnote">Last-author position typically indicates the senior/supervising researcher. A persistent gap between the two lines suggests women are less likely to reach senior roles.</p>
+        <p class="footnote">Last-author position typically indicates the senior/supervising researcher. A gap between solid and dashed lines of the same colour indicates a pipeline leak.</p>
       </div>
     </div>
 
@@ -808,23 +810,13 @@
         <label class="filter-label">Year to</label>
         <input type="number" id="f-year-to" min="2005" max="2025" placeholder="2025">
       </div>
-      <div class="filter-group" style="max-width:150px">
-        <label class="filter-label">First author</label>
-        <select id="f-first-gender">
-          <option value="">Any gender</option>
-          <option value="female">Female</option>
-          <option value="male">Male</option>
-          <option value="ambiguous">Ambiguous</option>
-        </select>
+      <div class="filter-group">
+        <label class="filter-label">First author name</label>
+        <input type="text" id="f-first-name" placeholder="e.g. Jane Smith">
       </div>
-      <div class="filter-group" style="max-width:150px">
-        <label class="filter-label">Last author</label>
-        <select id="f-last-gender">
-          <option value="">Any gender</option>
-          <option value="female">Female</option>
-          <option value="male">Male</option>
-          <option value="ambiguous">Ambiguous</option>
-        </select>
+      <div class="filter-group">
+        <label class="filter-label">Last author name</label>
+        <input type="text" id="f-last-name" placeholder="e.g. John Doe">
       </div>
       <div class="filter-group" style="max-width:120px">
         <label class="filter-label">Combo</label>
@@ -960,7 +952,7 @@ function makeChart(id, config) {
 }
 
 function pct(n, total) {
-  return total ? Math.round(n / total * 1000) / 10 : 0;
+  return total ? Math.round(n / total * 10) / 10 : 0;
 }
 
 function fmt(n) {
@@ -1123,16 +1115,20 @@ function renderTrends() {
       labels: years,
       datasets: [
         { label: 'Female first author %', data: byYear.map(d => d.pipeline.female_first_pct),
-          borderColor: COLORS.female, backgroundColor: COLORS.female+'22', fill: false, tension: 0.3, pointRadius: 2, borderWidth: 2 },
+          borderColor: COLORS.female, fill: false, tension: 0.3, pointRadius: 2, borderWidth: 2 },
         { label: 'Female last author %', data: byYear.map(d => d.pipeline.female_last_pct),
-          borderColor: COLORS.female, backgroundColor: COLORS.female+'11', fill: false, tension: 0.3, pointRadius: 2, borderWidth: 2,
-          borderDash: [4, 4] },
+          borderColor: COLORS.female, fill: false, tension: 0.3, pointRadius: 2, borderWidth: 2, borderDash: [4, 4] },
+        { label: 'Male first author %', data: byYear.map(d => d.pipeline.male_first_pct),
+          borderColor: COLORS.male, fill: false, tension: 0.3, pointRadius: 2, borderWidth: 2 },
+        { label: 'Male last author %', data: byYear.map(d => d.pipeline.male_last_pct),
+          borderColor: COLORS.male, fill: false, tension: 0.3, pointRadius: 2, borderWidth: 2, borderDash: [4, 4] },
       ]
     },
     options: { ...baseChartOpts,
+      plugins: { ...baseChartOpts.plugins, legend: { display: true, labels: { font: { family: 'DM Mono', size: 10 }, color: '#5C5650', boxWidth: 20 } } },
       scales: {
         x: { ...baseChartOpts.scales.x },
-        y: { ...baseChartOpts.scales.y, min: 0, max: 60,
+        y: { ...baseChartOpts.scales.y, min: 0, max: 100,
           ticks: { ...baseChartOpts.scales.y.ticks, callback: v => v + '%' } }
       }
     }
@@ -1193,7 +1189,7 @@ function renderTrends() {
 
 function renderCiteChart() {
   const pos = citeChartPos;
-  const years = [...new Set(pctData.map(d => d.year))].sort();
+  const years = [...new Set(pctData.map(d => d.year))].sort().filter(y => y < 2025);
   const forGender = (g) => years.map(y => {
     const row = pctData.find(d => d.year === y && d.gender === g && d.position === pos);
     return row ? row.median_pct : null;
@@ -1329,13 +1325,13 @@ function initExplore() {
 
 function getFilters() {
   return {
-    search:               document.getElementById('f-search').value.trim(),
-    institution:          document.getElementById('f-institution').value,
-    year_from:            document.getElementById('f-year-from').value,
-    year_to:              document.getElementById('f-year-to').value,
-    first_author_gender:  document.getElementById('f-first-gender').value,
-    last_author_gender:   document.getElementById('f-last-gender').value,
-    combo:                document.getElementById('f-combo').value,
+    search:             document.getElementById('f-search').value.trim(),
+    institution:        document.getElementById('f-institution').value,
+    year_from:          document.getElementById('f-year-from').value,
+    year_to:            document.getElementById('f-year-to').value,
+    first_author_name:  document.getElementById('f-first-name').value.trim(),
+    last_author_name:   document.getElementById('f-last-name').value.trim(),
+    combo:              document.getElementById('f-combo').value,
   };
 }
 
@@ -1424,8 +1420,8 @@ function renderPagination(page, pages) {
 
 document.getElementById('btn-search').addEventListener('click', () => fetchPapers(1));
 document.getElementById('btn-reset').addEventListener('click', () => {
-  ['f-search','f-year-from','f-year-to'].forEach(id => document.getElementById(id).value = '');
-  ['f-institution','f-first-gender','f-last-gender','f-combo'].forEach(id => document.getElementById(id).value = '');
+  ['f-search','f-year-from','f-year-to','f-first-name','f-last-name'].forEach(id => document.getElementById(id).value = '');
+  ['f-institution','f-combo'].forEach(id => document.getElementById(id).value = '');
   fetchPapers(1);
 });
 document.getElementById('f-search').addEventListener('keydown', e => { if (e.key === 'Enter') fetchPapers(1); });
