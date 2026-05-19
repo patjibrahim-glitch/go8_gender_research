@@ -10,7 +10,9 @@
     },
     "pipeline": {
       "female_first_pct": 22.5,
-      "female_last_pct": 18.89
+      "female_last_pct": 18.89,
+      "male_first_pct": 46.88,
+      "male_last_pct": 67.82
     },
     "combos": {
       "mm": 8959,
@@ -52,7 +54,9 @@
     },
     "pipeline": {
       "female_first_pct": 23.1,
-      "female_last_pct": 19.3
+      "female_last_pct": 19.3,
+      "male_first_pct": 46.89,
+      "male_last_pct": 68.18
     },
     "combos": {
       "mm": 10328,
@@ -94,7 +98,9 @@
     },
     "pipeline": {
       "female_first_pct": 23.79,
-      "female_last_pct": 20.72
+      "female_last_pct": 20.72,
+      "male_first_pct": 47.07,
+      "male_last_pct": 67.4
     },
     "combos": {
       "mm": 10671,
@@ -136,7 +142,9 @@
     },
     "pipeline": {
       "female_first_pct": 24.89,
-      "female_last_pct": 21.03
+      "female_last_pct": 21.03,
+      "male_first_pct": 46.15,
+      "male_last_pct": 67.19
     },
     "combos": {
       "mm": 11512,
@@ -178,7 +186,9 @@
     },
     "pipeline": {
       "female_first_pct": 25.19,
-      "female_last_pct": 21.19
+      "female_last_pct": 21.19,
+      "male_first_pct": 46.52,
+      "male_last_pct": 67.12
     },
     "combos": {
       "mm": 12889,
@@ -220,7 +230,9 @@
     },
     "pipeline": {
       "female_first_pct": 26.9,
-      "female_last_pct": 21.82
+      "female_last_pct": 21.82,
+      "male_first_pct": 46.31,
+      "male_last_pct": 67.14
     },
     "combos": {
       "mm": 14059,
@@ -262,7 +274,9 @@
     },
     "pipeline": {
       "female_first_pct": 26.86,
-      "female_last_pct": 22.8
+      "female_last_pct": 22.8,
+      "male_first_pct": 45.06,
+      "male_last_pct": 66.18
     },
     "combos": {
       "mm": 15134,
@@ -304,7 +318,9 @@
     },
     "pipeline": {
       "female_first_pct": 26.9,
-      "female_last_pct": 23.28
+      "female_last_pct": 23.28,
+      "male_first_pct": 43.79,
+      "male_last_pct": 65.62
     },
     "combos": {
       "mm": 16108,
@@ -346,7 +362,9 @@
     },
     "pipeline": {
       "female_first_pct": 27.26,
-      "female_last_pct": 24.0
+      "female_last_pct": 24.0,
+      "male_first_pct": 43.69,
+      "male_last_pct": 65.51
     },
     "combos": {
       "mm": 17783,
@@ -388,7 +406,9 @@
     },
     "pipeline": {
       "female_first_pct": 28.53,
-      "female_last_pct": 25.02
+      "female_last_pct": 25.02,
+      "male_first_pct": 44.13,
+      "male_last_pct": 65.04
     },
     "combos": {
       "mm": 18411,
@@ -430,7 +450,9 @@
     },
     "pipeline": {
       "female_first_pct": 29.01,
-      "female_last_pct": 25.37
+      "female_last_pct": 25.37,
+      "male_first_pct": 44.19,
+      "male_last_pct": 64.06
     },
     "combos": {
       "mm": 19129,
@@ -472,7 +494,9 @@
     },
     "pipeline": {
       "female_first_pct": 28.75,
-      "female_last_pct": 24.55
+      "female_last_pct": 24.55,
+      "male_first_pct": 42.65,
+      "male_last_pct": 61.55
     },
     "combos": {
       "mm": 20141,
@@ -514,7 +538,9 @@
     },
     "pipeline": {
       "female_first_pct": 30.46,
-      "female_last_pct": 26.18
+      "female_last_pct": 26.18,
+      "male_first_pct": 44.58,
+      "male_last_pct": 63.54
     },
     "combos": {
       "mm": 21192,
@@ -556,7 +582,9 @@
     },
     "pipeline": {
       "female_first_pct": 31.73,
-      "female_last_pct": 26.28
+      "female_last_pct": 26.28,
+      "male_first_pct": 43.95,
+      "male_last_pct": 63.64
     },
     "combos": {
       "mm": 22158,
@@ -598,7 +626,9 @@
     },
     "pipeline": {
       "female_first_pct": 31.62,
-      "female_last_pct": 27.0
+      "female_last_pct": 27.0,
+      "male_first_pct": 45.32,
+      "male_last_pct": 62.32
     },
     "combos": {
       "mm": 23976,
@@ -640,7 +670,9 @@
     },
     "pipeline": {
       "female_first_pct": 31.92,
-      "female_last_pct": 28.0
+      "female_last_pct": 28.0,
+      "male_first_pct": 45.74,
+      "male_last_pct": 61.26
     },
     "combos": {
       "mm": 25800,
@@ -682,7 +714,9 @@
     },
     "pipeline": {
       "female_first_pct": 33.05,
-      "female_last_pct": 28.44
+      "female_last_pct": 28.44,
+      "male_first_pct": 44.69,
+      "male_last_pct": 61.03
     },
     "combos": {
       "mm": 26018,
@@ -724,7 +758,9 @@
     },
     "pipeline": {
       "female_first_pct": 33.97,
-      "female_last_pct": 29.46
+      "female_last_pct": 29.46,
+      "male_first_pct": 43.44,
+      "male_last_pct": 59.44
     },
     "combos": {
       "mm": 23147,
@@ -766,7 +802,9 @@
     },
     "pipeline": {
       "female_first_pct": 32.37,
-      "female_last_pct": 29.17
+      "female_last_pct": 29.17,
+      "male_first_pct": 44.34,
+      "male_last_pct": 59.64
     },
     "combos": {
       "mm": 24301,
@@ -808,7 +846,9 @@
     },
     "pipeline": {
       "female_first_pct": 33.27,
-      "female_last_pct": 30.19
+      "female_last_pct": 30.19,
+      "male_first_pct": 43.13,
+      "male_last_pct": 57.93
     },
     "combos": {
       "mm": 21943,
@@ -850,7 +890,9 @@
     },
     "pipeline": {
       "female_first_pct": 33.24,
-      "female_last_pct": 31.27
+      "female_last_pct": 31.27,
+      "male_first_pct": 41.24,
+      "male_last_pct": 55.97
     },
     "combos": {
       "mm": 20783,
