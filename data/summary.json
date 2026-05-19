@@ -1,0 +1,346 @@
+{
+  "total_papers": 1268986,
+  "year_range": [
+    2005,
+    2025
+  ],
+  "universities": [
+    "Australian National University",
+    "Monash University",
+    "UNSW Sydney",
+    "University of Adelaide",
+    "University of Melbourne",
+    "University of Queensland",
+    "University of Sydney",
+    "University of Western Australia"
+  ],
+  "fields": [
+    "Biology & Life Sciences",
+    "Computer Science & Mathematics",
+    "Environmental Sciences",
+    "Humanities & Arts",
+    "Medicine & Health",
+    "Other",
+    "Physical Sciences & Engineering",
+    "Social Sciences & Economics"
+  ],
+  "overall": {
+    "first_author": {
+      "female": 380057,
+      "male": 563594,
+      "ambiguous": 66818,
+      "empty": 258517
+    },
+    "last_author": {
+      "female": 287105,
+      "male": 686148,
+      "ambiguous": 46262,
+      "empty": 77007
+    }
+  },
+  "by_university": [
+    {
+      "university": "Monash University",
+      "total_papers": 210521,
+      "first_author": {
+        "female": 69773,
+        "male": 90996,
+        "ambiguous": 11082,
+        "empty": 38670
+      },
+      "last_author": {
+        "female": 54604,
+        "male": 111687,
+        "ambiguous": 7996,
+        "empty": 13220
+      },
+      "female_first_pct": 33.14,
+      "female_last_pct": 29.12
+    },
+    {
+      "university": "University of Sydney",
+      "total_papers": 234925,
+      "first_author": {
+        "female": 75341,
+        "male": 101828,
+        "ambiguous": 11792,
+        "empty": 45964
+      },
+      "last_author": {
+        "female": 57562,
+        "male": 124238,
+        "ambiguous": 8539,
+        "empty": 13754
+      },
+      "female_first_pct": 32.07,
+      "female_last_pct": 28.2
+    },
+    {
+      "university": "University of Queensland",
+      "total_papers": 179605,
+      "first_author": {
+        "female": 56775,
+        "male": 80639,
+        "ambiguous": 10064,
+        "empty": 32127
+      },
+      "last_author": {
+        "female": 41520,
+        "male": 100667,
+        "ambiguous": 7182,
+        "empty": 10081
+      },
+      "female_first_pct": 31.61,
+      "female_last_pct": 26.04
+    },
+    {
+      "university": "University of Melbourne",
+      "total_papers": 184411,
+      "first_author": {
+        "female": 56358,
+        "male": 78515,
+        "ambiguous": 8066,
+        "empty": 41472
+      },
+      "last_author": {
+        "female": 42992,
+        "male": 97344,
+        "ambiguous": 4989,
+        "empty": 8793
+      },
+      "female_first_pct": 30.56,
+      "female_last_pct": 27.9
+    },
+    {
+      "university": "University of Western Australia",
+      "total_papers": 93443,
+      "first_author": {
+        "female": 27721,
+        "male": 43028,
+        "ambiguous": 4770,
+        "empty": 17924
+      },
+      "last_author": {
+        "female": 19150,
+        "male": 53535,
+        "ambiguous": 3416,
+        "empty": 5899
+      },
+      "female_first_pct": 29.67,
+      "female_last_pct": 23.35
+    },
+    {
+      "university": "University of Adelaide",
+      "total_papers": 88630,
+      "first_author": {
+        "female": 25566,
+        "male": 41402,
+        "ambiguous": 5275,
+        "empty": 16387
+      },
+      "last_author": {
+        "female": 18098,
+        "male": 51307,
+        "ambiguous": 3043,
+        "empty": 6329
+      },
+      "female_first_pct": 28.85,
+      "female_last_pct": 22.97
+    },
+    {
+      "university": "UNSW Sydney",
+      "total_papers": 170950,
+      "first_author": {
+        "female": 45754,
+        "male": 80291,
+        "ambiguous": 10991,
+        "empty": 33914
+      },
+      "last_author": {
+        "female": 35646,
+        "male": 94341,
+        "ambiguous": 7628,
+        "empty": 11245
+      },
+      "female_first_pct": 26.76,
+      "female_last_pct": 23.95
+    },
+    {
+      "university": "Australian National University",
+      "total_papers": 106501,
+      "first_author": {
+        "female": 22769,
+        "male": 46895,
+        "ambiguous": 4778,
+        "empty": 32059
+      },
+      "last_author": {
+        "female": 17533,
+        "male": 53029,
+        "ambiguous": 3469,
+        "empty": 7686
+      },
+      "female_first_pct": 21.38,
+      "female_last_pct": 21.46
+    }
+  ],
+  "by_field": [
+    {
+      "field": "Medicine & Health",
+      "total_papers": 238304,
+      "female_first_pct": 41.92,
+      "female_last_pct": 34.42,
+      "first_author": {
+        "female": 99904,
+        "male": 97972,
+        "ambiguous": 9881,
+        "empty": 30547
+      },
+      "last_author": {
+        "female": 76262,
+        "male": 127650,
+        "ambiguous": 6487,
+        "empty": 11142
+      }
+    },
+    {
+      "field": "Biology & Life Sciences",
+      "total_papers": 91382,
+      "female_first_pct": 37.08,
+      "female_last_pct": 25.2,
+      "first_author": {
+        "female": 33889,
+        "male": 43554,
+        "ambiguous": 4339,
+        "empty": 9600
+      },
+      "last_author": {
+        "female": 22058,
+        "male": 59038,
+        "ambiguous": 2353,
+        "empty": 4067
+      }
+    },
+    {
+      "field": "Social Sciences & Economics",
+      "total_papers": 76059,
+      "female_first_pct": 29.28,
+      "female_last_pct": 34.53,
+      "first_author": {
+        "female": 22268,
+        "male": 28646,
+        "ambiguous": 3201,
+        "empty": 21944
+      },
+      "last_author": {
+        "female": 19737,
+        "male": 31905,
+        "ambiguous": 2490,
+        "empty": 3035
+      }
+    },
+    {
+      "field": "Environmental Sciences",
+      "total_papers": 31825,
+      "female_first_pct": 28.42,
+      "female_last_pct": 20.69,
+      "first_author": {
+        "female": 9045,
+        "male": 15664,
+        "ambiguous": 2014,
+        "empty": 5102
+      },
+      "last_author": {
+        "female": 6097,
+        "male": 19238,
+        "ambiguous": 1470,
+        "empty": 2664
+      }
+    },
+    {
+      "field": "Other",
+      "total_papers": 686194,
+      "female_first_pct": 27.67,
+      "female_last_pct": 25.39,
+      "first_author": {
+        "female": 189869,
+        "male": 300754,
+        "ambiguous": 35530,
+        "empty": 160041
+      },
+      "last_author": {
+        "female": 145243,
+        "male": 359990,
+        "ambiguous": 24804,
+        "empty": 41992
+      }
+    },
+    {
+      "field": "Physical Sciences & Engineering",
+      "total_papers": 98493,
+      "female_first_pct": 17.51,
+      "female_last_pct": 11.93,
+      "first_author": {
+        "female": 17249,
+        "male": 55470,
+        "ambiguous": 8977,
+        "empty": 16797
+      },
+      "last_author": {
+        "female": 11207,
+        "male": 64414,
+        "ambiguous": 6355,
+        "empty": 11939
+      }
+    },
+    {
+      "field": "Computer Science & Mathematics",
+      "total_papers": 32485,
+      "female_first_pct": 16.89,
+      "female_last_pct": 14.98,
+      "first_author": {
+        "female": 5488,
+        "male": 18575,
+        "ambiguous": 2614,
+        "empty": 5808
+      },
+      "last_author": {
+        "female": 4337,
+        "male": 20738,
+        "ambiguous": 2084,
+        "empty": 1788
+      }
+    },
+    {
+      "field": "Humanities & Arts",
+      "total_papers": 14244,
+      "female_first_pct": 16.46,
+      "female_last_pct": 36.44,
+      "first_author": {
+        "female": 2345,
+        "male": 2959,
+        "ambiguous": 262,
+        "empty": 8678
+      },
+      "last_author": {
+        "female": 2164,
+        "male": 3175,
+        "ambiguous": 219,
+        "empty": 380
+      }
+    }
+  ],
+  "combo_totals": {
+    "mm": 384442,
+    "fm": 210723,
+    "single": 172464,
+    "unknown": 147065,
+    "ff": 139907,
+    "mf": 117681,
+    "am": 41496,
+    "ma": 23911,
+    "af": 13347,
+    "fa": 11621,
+    "ambiguous": 6329
+  }
+}
