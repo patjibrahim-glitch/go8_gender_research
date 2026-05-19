@@ -18,8 +18,8 @@ exports.handler = async (event) => {
   if (params.year_from) { filters.push(`year >= $${i++}`); values.push(parseInt(params.year_from)); }
   if (params.year_to)   { filters.push(`year <= $${i++}`); values.push(parseInt(params.year_to)); }
   if (params.institution) { filters.push(`institution = $${i++}`); values.push(params.institution); }
-  if (params.first_author_gender) { filters.push(`first_author_gender = $${i++}`); values.push(params.first_author_gender); }
-  if (params.last_author_gender)  { filters.push(`last_author_gender = $${i++}`);  values.push(params.last_author_gender); }
+  if (params.first_author_name) { filters.push(`first_author_name ILIKE $${i++}`); values.push(`%${params.first_author_name}%`); }
+  if (params.last_author_name)  { filters.push(`last_author_name ILIKE $${i++}`);  values.push(`%${params.last_author_name}%`); }
   if (params.combo)  { filters.push(`combo = $${i++}`);  values.push(params.combo); }
   if (params.search) { filters.push(`title ILIKE $${i++}`); values.push(`%${params.search}%`); }
 
