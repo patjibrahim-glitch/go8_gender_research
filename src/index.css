@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Mono:wght@400;500&family=DM+Sans:wght@300;400;500&display=swap');
+
+@layer base {
+  :root {
+    --background:        240 5% 96%;
+    --foreground:        240 10% 4%;
+    --card:              0 0% 100%;
+    --card-foreground:   240 10% 4%;
+    --muted:             240 5% 92%;
+    --muted-foreground:  240 4% 46%;
+    --border:            240 6% 87%;
+    --input:             240 6% 87%;
+    --primary:           263 70% 50%;
+    --primary-foreground:0 0% 100%;
+    --secondary:         240 5% 92%;
+    --secondary-foreground: 240 10% 4%;
+    --accent:            263 70% 50%;
+    --accent-foreground: 0 0% 100%;
+    --ring:              263 70% 50%;
+    --radius:            0rem;
+
+    --female:  #C1440E;
+    --male:    #1B4F8A;
+    --ambig:   #7A6E5F;
+  }
+
+  * { border-color: hsl(var(--border)); }
+
+  body {
+    background-color: hsl(var(--background));
+    color: hsl(var(--foreground));
+    font-family: 'DM Sans', sans-serif;
+    font-size: 15px;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+  }
+}

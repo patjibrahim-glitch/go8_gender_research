@@ -1,0 +1,1262 @@
+[
+  {
+    "year": 2005,
+    "gender": "female",
+    "position": "first",
+    "median_pct": 59.46,
+    "mean_pct": 55.47,
+    "n": 6039,
+    "top10_pct": 11.59,
+    "top25_pct": 30.92
+  },
+  {
+    "year": 2005,
+    "gender": "female",
+    "position": "last",
+    "median_pct": 55.0,
+    "mean_pct": 52.4,
+    "n": 4121,
+    "top10_pct": 10.97,
+    "top25_pct": 27.95
+  },
+  {
+    "year": 2005,
+    "gender": "male",
+    "position": "first",
+    "median_pct": 52.8,
+    "mean_pct": 51.2,
+    "n": 12582,
+    "top10_pct": 11.41,
+    "top25_pct": 27.14
+  },
+  {
+    "year": 2005,
+    "gender": "male",
+    "position": "last",
+    "median_pct": 55.0,
+    "mean_pct": 52.46,
+    "n": 14793,
+    "top10_pct": 11.33,
+    "top25_pct": 27.98
+  },
+  {
+    "year": 2005,
+    "gender": "ambiguous",
+    "position": "first",
+    "median_pct": 49.53,
+    "mean_pct": 48.23,
+    "n": 1004,
+    "top10_pct": 8.17,
+    "top25_pct": 23.01
+  },
+  {
+    "year": 2005,
+    "gender": "ambiguous",
+    "position": "last",
+    "median_pct": 44.22,
+    "mean_pct": 44.25,
+    "n": 735,
+    "top10_pct": 7.48,
+    "top25_pct": 18.37
+  },
+  {
+    "year": 2006,
+    "gender": "female",
+    "position": "first",
+    "median_pct": 59.83,
+    "mean_pct": 55.76,
+    "n": 7090,
+    "top10_pct": 12.37,
+    "top25_pct": 32.07
+  },
+  {
+    "year": 2006,
+    "gender": "female",
+    "position": "last",
+    "median_pct": 57.45,
+    "mean_pct": 53.72,
+    "n": 4851,
+    "top10_pct": 12.14,
+    "top25_pct": 30.39
+  },
+  {
+    "year": 2006,
+    "gender": "male",
+    "position": "first",
+    "median_pct": 52.49,
+    "mean_pct": 50.83,
+    "n": 14388,
+    "top10_pct": 11.09,
+    "top25_pct": 27.06
+  },
+  {
+    "year": 2006,
+    "gender": "male",
+    "position": "last",
+    "median_pct": 54.59,
+    "mean_pct": 51.92,
+    "n": 17142,
+    "top10_pct": 11.36,
+    "top25_pct": 27.91
+  },
+  {
+    "year": 2006,
+    "gender": "ambiguous",
+    "position": "first",
+    "median_pct": 46.49,
+    "mean_pct": 46.56,
+    "n": 1263,
+    "top10_pct": 8.55,
+    "top25_pct": 22.25
+  },
+  {
+    "year": 2006,
+    "gender": "ambiguous",
+    "position": "last",
+    "median_pct": 46.49,
+    "mean_pct": 45.83,
+    "n": 874,
+    "top10_pct": 6.29,
+    "top25_pct": 20.14
+  },
+  {
+    "year": 2007,
+    "gender": "female",
+    "position": "first",
+    "median_pct": 59.63,
+    "mean_pct": 55.57,
+    "n": 7639,
+    "top10_pct": 11.77,
+    "top25_pct": 31.26
+  },
+  {
+    "year": 2007,
+    "gender": "female",
+    "position": "last",
+    "median_pct": 56.85,
+    "mean_pct": 53.25,
+    "n": 5442,
+    "top10_pct": 11.45,
+    "top25_pct": 29.24
+  },
+  {
+    "year": 2007,
+    "gender": "male",
+    "position": "first",
+    "median_pct": 52.96,
+    "mean_pct": 51.4,
+    "n": 15117,
+    "top10_pct": 11.42,
+    "top25_pct": 26.93
+  },
+  {
+    "year": 2007,
+    "gender": "male",
+    "position": "last",
+    "median_pct": 54.95,
+    "mean_pct": 52.52,
+    "n": 17702,
+    "top10_pct": 11.37,
+    "top25_pct": 27.91
+  },
+  {
+    "year": 2007,
+    "gender": "ambiguous",
+    "position": "first",
+    "median_pct": 48.43,
+    "mean_pct": 48.7,
+    "n": 1259,
+    "top10_pct": 10.01,
+    "top25_pct": 23.75
+  },
+  {
+    "year": 2007,
+    "gender": "ambiguous",
+    "position": "last",
+    "median_pct": 46.05,
+    "mean_pct": 47.12,
+    "n": 961,
+    "top10_pct": 9.89,
+    "top25_pct": 22.68
+  },
+  {
+    "year": 2008,
+    "gender": "female",
+    "position": "first",
+    "median_pct": 59.29,
+    "mean_pct": 54.71,
+    "n": 8763,
+    "top10_pct": 11.86,
+    "top25_pct": 30.97
+  },
+  {
+    "year": 2008,
+    "gender": "female",
+    "position": "last",
+    "median_pct": 57.44,
+    "mean_pct": 53.22,
+    "n": 6113,
+    "top10_pct": 10.62,
+    "top25_pct": 29.59
+  },
+  {
+    "year": 2008,
+    "gender": "male",
+    "position": "first",
+    "median_pct": 53.55,
+    "mean_pct": 51.32,
+    "n": 16246,
+    "top10_pct": 11.48,
+    "top25_pct": 27.61
+  },
+  {
+    "year": 2008,
+    "gender": "male",
+    "position": "last",
+    "median_pct": 54.6,
+    "mean_pct": 52.0,
+    "n": 19526,
+    "top10_pct": 11.59,
+    "top25_pct": 28.09
+  },
+  {
+    "year": 2008,
+    "gender": "ambiguous",
+    "position": "first",
+    "median_pct": 50.12,
+    "mean_pct": 49.38,
+    "n": 1478,
+    "top10_pct": 9.34,
+    "top25_pct": 23.68
+  },
+  {
+    "year": 2008,
+    "gender": "ambiguous",
+    "position": "last",
+    "median_pct": 48.93,
+    "mean_pct": 47.95,
+    "n": 1017,
+    "top10_pct": 9.93,
+    "top25_pct": 23.6
+  },
+  {
+    "year": 2009,
+    "gender": "female",
+    "position": "first",
+    "median_pct": 58.68,
+    "mean_pct": 54.28,
+    "n": 9794,
+    "top10_pct": 11.82,
+    "top25_pct": 30.44
+  },
+  {
+    "year": 2009,
+    "gender": "female",
+    "position": "last",
+    "median_pct": 57.69,
+    "mean_pct": 53.04,
+    "n": 6810,
+    "top10_pct": 11.95,
+    "top25_pct": 30.06
+  },
+  {
+    "year": 2009,
+    "gender": "male",
+    "position": "first",
+    "median_pct": 53.45,
+    "mean_pct": 50.94,
+    "n": 18092,
+    "top10_pct": 11.54,
+    "top25_pct": 27.44
+  },
+  {
+    "year": 2009,
+    "gender": "male",
+    "position": "last",
+    "median_pct": 54.65,
+    "mean_pct": 52.16,
+    "n": 21572,
+    "top10_pct": 11.77,
+    "top25_pct": 28.31
+  },
+  {
+    "year": 2009,
+    "gender": "ambiguous",
+    "position": "first",
+    "median_pct": 51.26,
+    "mean_pct": 49.46,
+    "n": 1646,
+    "top10_pct": 9.3,
+    "top25_pct": 25.03
+  },
+  {
+    "year": 2009,
+    "gender": "ambiguous",
+    "position": "last",
+    "median_pct": 44.66,
+    "mean_pct": 44.31,
+    "n": 1257,
+    "top10_pct": 7.88,
+    "top25_pct": 20.13
+  },
+  {
+    "year": 2010,
+    "gender": "female",
+    "position": "first",
+    "median_pct": 58.13,
+    "mean_pct": 54.21,
+    "n": 11385,
+    "top10_pct": 11.65,
+    "top25_pct": 30.16
+  },
+  {
+    "year": 2010,
+    "gender": "female",
+    "position": "last",
+    "median_pct": 56.1,
+    "mean_pct": 52.56,
+    "n": 7762,
+    "top10_pct": 11.27,
+    "top25_pct": 29.13
+  },
+  {
+    "year": 2010,
+    "gender": "male",
+    "position": "first",
+    "median_pct": 52.82,
+    "mean_pct": 50.22,
+    "n": 19599,
+    "top10_pct": 11.17,
+    "top25_pct": 26.71
+  },
+  {
+    "year": 2010,
+    "gender": "male",
+    "position": "last",
+    "median_pct": 53.92,
+    "mean_pct": 51.44,
+    "n": 23885,
+    "top10_pct": 11.4,
+    "top25_pct": 27.53
+  },
+  {
+    "year": 2010,
+    "gender": "ambiguous",
+    "position": "first",
+    "median_pct": 52.82,
+    "mean_pct": 51.15,
+    "n": 1860,
+    "top10_pct": 10.7,
+    "top25_pct": 26.72
+  },
+  {
+    "year": 2010,
+    "gender": "ambiguous",
+    "position": "last",
+    "median_pct": 49.17,
+    "mean_pct": 48.48,
+    "n": 1359,
+    "top10_pct": 10.3,
+    "top25_pct": 25.17
+  },
+  {
+    "year": 2011,
+    "gender": "female",
+    "position": "first",
+    "median_pct": 59.44,
+    "mean_pct": 55.12,
+    "n": 12797,
+    "top10_pct": 11.76,
+    "top25_pct": 31.34
+  },
+  {
+    "year": 2011,
+    "gender": "female",
+    "position": "last",
+    "median_pct": 56.4,
+    "mean_pct": 52.87,
+    "n": 8993,
+    "top10_pct": 10.84,
+    "top25_pct": 28.91
+  },
+  {
+    "year": 2011,
+    "gender": "male",
+    "position": "first",
+    "median_pct": 53.07,
+    "mean_pct": 51.28,
+    "n": 21468,
+    "top10_pct": 11.78,
+    "top25_pct": 27.36
+  },
+  {
+    "year": 2011,
+    "gender": "male",
+    "position": "last",
+    "median_pct": 55.34,
+    "mean_pct": 52.42,
+    "n": 26099,
+    "top10_pct": 11.82,
+    "top25_pct": 28.35
+  },
+  {
+    "year": 2011,
+    "gender": "ambiguous",
+    "position": "first",
+    "median_pct": 50.67,
+    "mean_pct": 49.87,
+    "n": 2145,
+    "top10_pct": 9.18,
+    "top25_pct": 24.43
+  },
+  {
+    "year": 2011,
+    "gender": "ambiguous",
+    "position": "last",
+    "median_pct": 50.67,
+    "mean_pct": 50.08,
+    "n": 1327,
+    "top10_pct": 10.55,
+    "top25_pct": 27.05
+  },
+  {
+    "year": 2012,
+    "gender": "female",
+    "position": "first",
+    "median_pct": 59.09,
+    "mean_pct": 54.71,
+    "n": 14117,
+    "top10_pct": 12.2,
+    "top25_pct": 31.01
+  },
+  {
+    "year": 2012,
+    "gender": "female",
+    "position": "last",
+    "median_pct": 56.92,
+    "mean_pct": 52.56,
+    "n": 9977,
+    "top10_pct": 10.89,
+    "top25_pct": 28.85
+  },
+  {
+    "year": 2012,
+    "gender": "male",
+    "position": "first",
+    "median_pct": 54.62,
+    "mean_pct": 52.08,
+    "n": 22978,
+    "top10_pct": 11.66,
+    "top25_pct": 28.36
+  },
+  {
+    "year": 2012,
+    "gender": "male",
+    "position": "last",
+    "median_pct": 55.85,
+    "mean_pct": 53.08,
+    "n": 28124,
+    "top10_pct": 12.05,
+    "top25_pct": 29.14
+  },
+  {
+    "year": 2012,
+    "gender": "ambiguous",
+    "position": "first",
+    "median_pct": 54.62,
+    "mean_pct": 51.8,
+    "n": 2408,
+    "top10_pct": 9.84,
+    "top25_pct": 27.2
+  },
+  {
+    "year": 2012,
+    "gender": "ambiguous",
+    "position": "last",
+    "median_pct": 53.31,
+    "mean_pct": 51.0,
+    "n": 1495,
+    "top10_pct": 10.43,
+    "top25_pct": 26.56
+  },
+  {
+    "year": 2013,
+    "gender": "female",
+    "position": "first",
+    "median_pct": 59.67,
+    "mean_pct": 55.58,
+    "n": 15720,
+    "top10_pct": 11.83,
+    "top25_pct": 31.01
+  },
+  {
+    "year": 2013,
+    "gender": "female",
+    "position": "last",
+    "median_pct": 57.61,
+    "mean_pct": 53.39,
+    "n": 11231,
+    "top10_pct": 10.87,
+    "top25_pct": 28.94
+  },
+  {
+    "year": 2013,
+    "gender": "male",
+    "position": "first",
+    "median_pct": 54.22,
+    "mean_pct": 52.06,
+    "n": 25195,
+    "top10_pct": 11.85,
+    "top25_pct": 28.49
+  },
+  {
+    "year": 2013,
+    "gender": "male",
+    "position": "last",
+    "median_pct": 56.58,
+    "mean_pct": 53.44,
+    "n": 30660,
+    "top10_pct": 12.07,
+    "top25_pct": 29.42
+  },
+  {
+    "year": 2013,
+    "gender": "ambiguous",
+    "position": "first",
+    "median_pct": 55.41,
+    "mean_pct": 53.37,
+    "n": 2615,
+    "top10_pct": 10.29,
+    "top25_pct": 27.99
+  },
+  {
+    "year": 2013,
+    "gender": "ambiguous",
+    "position": "last",
+    "median_pct": 54.22,
+    "mean_pct": 52.2,
+    "n": 1636,
+    "top10_pct": 10.51,
+    "top25_pct": 27.02
+  },
+  {
+    "year": 2014,
+    "gender": "female",
+    "position": "first",
+    "median_pct": 58.55,
+    "mean_pct": 54.36,
+    "n": 16961,
+    "top10_pct": 11.36,
+    "top25_pct": 29.37
+  },
+  {
+    "year": 2014,
+    "gender": "female",
+    "position": "last",
+    "median_pct": 56.34,
+    "mean_pct": 52.71,
+    "n": 12336,
+    "top10_pct": 10.39,
+    "top25_pct": 27.97
+  },
+  {
+    "year": 2014,
+    "gender": "male",
+    "position": "first",
+    "median_pct": 53.97,
+    "mean_pct": 52.13,
+    "n": 26235,
+    "top10_pct": 11.66,
+    "top25_pct": 27.9
+  },
+  {
+    "year": 2014,
+    "gender": "male",
+    "position": "last",
+    "median_pct": 56.34,
+    "mean_pct": 53.14,
+    "n": 32071,
+    "top10_pct": 11.85,
+    "top25_pct": 28.54
+  },
+  {
+    "year": 2014,
+    "gender": "ambiguous",
+    "position": "first",
+    "median_pct": 55.19,
+    "mean_pct": 53.29,
+    "n": 2787,
+    "top10_pct": 11.19,
+    "top25_pct": 28.17
+  },
+  {
+    "year": 2014,
+    "gender": "ambiguous",
+    "position": "last",
+    "median_pct": 52.65,
+    "mean_pct": 51.38,
+    "n": 1678,
+    "top10_pct": 10.43,
+    "top25_pct": 26.34
+  },
+  {
+    "year": 2015,
+    "gender": "female",
+    "position": "first",
+    "median_pct": 57.14,
+    "mean_pct": 53.74,
+    "n": 18138,
+    "top10_pct": 10.96,
+    "top25_pct": 29.29
+  },
+  {
+    "year": 2015,
+    "gender": "female",
+    "position": "last",
+    "median_pct": 55.98,
+    "mean_pct": 52.39,
+    "n": 13278,
+    "top10_pct": 10.54,
+    "top25_pct": 28.02
+  },
+  {
+    "year": 2015,
+    "gender": "male",
+    "position": "first",
+    "median_pct": 54.74,
+    "mean_pct": 52.13,
+    "n": 27630,
+    "top10_pct": 11.92,
+    "top25_pct": 28.33
+  },
+  {
+    "year": 2015,
+    "gender": "male",
+    "position": "last",
+    "median_pct": 55.98,
+    "mean_pct": 53.02,
+    "n": 33528,
+    "top10_pct": 11.79,
+    "top25_pct": 28.84
+  },
+  {
+    "year": 2015,
+    "gender": "ambiguous",
+    "position": "first",
+    "median_pct": 55.98,
+    "mean_pct": 53.61,
+    "n": 2973,
+    "top10_pct": 10.9,
+    "top25_pct": 28.42
+  },
+  {
+    "year": 2015,
+    "gender": "ambiguous",
+    "position": "last",
+    "median_pct": 53.41,
+    "mean_pct": 51.44,
+    "n": 1913,
+    "top10_pct": 10.61,
+    "top25_pct": 27.34
+  },
+  {
+    "year": 2016,
+    "gender": "female",
+    "position": "first",
+    "median_pct": 58.62,
+    "mean_pct": 54.78,
+    "n": 19522,
+    "top10_pct": 11.2,
+    "top25_pct": 29.85
+  },
+  {
+    "year": 2016,
+    "gender": "female",
+    "position": "last",
+    "median_pct": 56.15,
+    "mean_pct": 52.95,
+    "n": 14211,
+    "top10_pct": 10.76,
+    "top25_pct": 28.27
+  },
+  {
+    "year": 2016,
+    "gender": "male",
+    "position": "first",
+    "median_pct": 54.86,
+    "mean_pct": 52.78,
+    "n": 28960,
+    "top10_pct": 12.3,
+    "top25_pct": 28.93
+  },
+  {
+    "year": 2016,
+    "gender": "male",
+    "position": "last",
+    "median_pct": 57.42,
+    "mean_pct": 53.98,
+    "n": 35634,
+    "top10_pct": 12.17,
+    "top25_pct": 29.82
+  },
+  {
+    "year": 2016,
+    "gender": "ambiguous",
+    "position": "first",
+    "median_pct": 56.15,
+    "mean_pct": 54.06,
+    "n": 3322,
+    "top10_pct": 10.36,
+    "top25_pct": 29.02
+  },
+  {
+    "year": 2016,
+    "gender": "ambiguous",
+    "position": "last",
+    "median_pct": 56.15,
+    "mean_pct": 53.72,
+    "n": 2122,
+    "top10_pct": 11.22,
+    "top25_pct": 26.77
+  },
+  {
+    "year": 2017,
+    "gender": "female",
+    "position": "first",
+    "median_pct": 57.0,
+    "mean_pct": 53.07,
+    "n": 20821,
+    "top10_pct": 10.42,
+    "top25_pct": 28.23
+  },
+  {
+    "year": 2017,
+    "gender": "female",
+    "position": "last",
+    "median_pct": 54.35,
+    "mean_pct": 51.51,
+    "n": 15374,
+    "top10_pct": 10.19,
+    "top25_pct": 27.25
+  },
+  {
+    "year": 2017,
+    "gender": "male",
+    "position": "first",
+    "median_pct": 52.95,
+    "mean_pct": 50.79,
+    "n": 30475,
+    "top10_pct": 11.66,
+    "top25_pct": 27.79
+  },
+  {
+    "year": 2017,
+    "gender": "male",
+    "position": "last",
+    "median_pct": 54.35,
+    "mean_pct": 52.23,
+    "n": 37315,
+    "top10_pct": 11.59,
+    "top25_pct": 28.56
+  },
+  {
+    "year": 2017,
+    "gender": "ambiguous",
+    "position": "first",
+    "median_pct": 59.5,
+    "mean_pct": 55.64,
+    "n": 3381,
+    "top10_pct": 13.16,
+    "top25_pct": 31.82
+  },
+  {
+    "year": 2017,
+    "gender": "ambiguous",
+    "position": "last",
+    "median_pct": 55.72,
+    "mean_pct": 53.3,
+    "n": 2288,
+    "top10_pct": 12.02,
+    "top25_pct": 29.11
+  },
+  {
+    "year": 2018,
+    "gender": "female",
+    "position": "first",
+    "median_pct": 54.24,
+    "mean_pct": 50.34,
+    "n": 23279,
+    "top10_pct": 9.76,
+    "top25_pct": 26.85
+  },
+  {
+    "year": 2018,
+    "gender": "female",
+    "position": "last",
+    "median_pct": 54.24,
+    "mean_pct": 51.12,
+    "n": 16779,
+    "top10_pct": 9.99,
+    "top25_pct": 27.09
+  },
+  {
+    "year": 2018,
+    "gender": "male",
+    "position": "first",
+    "median_pct": 52.8,
+    "mean_pct": 51.18,
+    "n": 32247,
+    "top10_pct": 11.64,
+    "top25_pct": 28.01
+  },
+  {
+    "year": 2018,
+    "gender": "male",
+    "position": "last",
+    "median_pct": 54.24,
+    "mean_pct": 51.11,
+    "n": 40637,
+    "top10_pct": 11.18,
+    "top25_pct": 27.82
+  },
+  {
+    "year": 2018,
+    "gender": "ambiguous",
+    "position": "first",
+    "median_pct": 60.93,
+    "mean_pct": 56.91,
+    "n": 3939,
+    "top10_pct": 13.35,
+    "top25_pct": 32.62
+  },
+  {
+    "year": 2018,
+    "gender": "ambiguous",
+    "position": "last",
+    "median_pct": 57.08,
+    "mean_pct": 53.64,
+    "n": 2583,
+    "top10_pct": 12.62,
+    "top25_pct": 31.51
+  },
+  {
+    "year": 2019,
+    "gender": "female",
+    "position": "first",
+    "median_pct": 52.6,
+    "mean_pct": 50.45,
+    "n": 24569,
+    "top10_pct": 9.19,
+    "top25_pct": 25.17
+  },
+  {
+    "year": 2019,
+    "gender": "female",
+    "position": "last",
+    "median_pct": 52.6,
+    "mean_pct": 49.95,
+    "n": 18608,
+    "top10_pct": 9.01,
+    "top25_pct": 24.89
+  },
+  {
+    "year": 2019,
+    "gender": "male",
+    "position": "first",
+    "median_pct": 52.6,
+    "mean_pct": 50.14,
+    "n": 35208,
+    "top10_pct": 11.73,
+    "top25_pct": 27.27
+  },
+  {
+    "year": 2019,
+    "gender": "male",
+    "position": "last",
+    "median_pct": 54.2,
+    "mean_pct": 51.01,
+    "n": 42950,
+    "top10_pct": 11.46,
+    "top25_pct": 27.31
+  },
+  {
+    "year": 2019,
+    "gender": "ambiguous",
+    "position": "first",
+    "median_pct": 60.0,
+    "mean_pct": 55.73,
+    "n": 4427,
+    "top10_pct": 13.71,
+    "top25_pct": 32.01
+  },
+  {
+    "year": 2019,
+    "gender": "ambiguous",
+    "position": "last",
+    "median_pct": 57.21,
+    "mean_pct": 53.59,
+    "n": 3031,
+    "top10_pct": 12.37,
+    "top25_pct": 30.39
+  },
+  {
+    "year": 2020,
+    "gender": "female",
+    "position": "first",
+    "median_pct": 52.85,
+    "mean_pct": 50.14,
+    "n": 27123,
+    "top10_pct": 9.26,
+    "top25_pct": 25.5
+  },
+  {
+    "year": 2020,
+    "gender": "female",
+    "position": "last",
+    "median_pct": 50.89,
+    "mean_pct": 48.81,
+    "n": 21341,
+    "top10_pct": 8.86,
+    "top25_pct": 24.83
+  },
+  {
+    "year": 2020,
+    "gender": "male",
+    "position": "first",
+    "median_pct": 52.85,
+    "mean_pct": 50.15,
+    "n": 38874,
+    "top10_pct": 11.52,
+    "top25_pct": 27.58
+  },
+  {
+    "year": 2020,
+    "gender": "male",
+    "position": "last",
+    "median_pct": 52.85,
+    "mean_pct": 50.85,
+    "n": 46692,
+    "top10_pct": 11.32,
+    "top25_pct": 27.64
+  },
+  {
+    "year": 2020,
+    "gender": "ambiguous",
+    "position": "first",
+    "median_pct": 58.02,
+    "mean_pct": 54.79,
+    "n": 4897,
+    "top10_pct": 13.15,
+    "top25_pct": 32.39
+  },
+  {
+    "year": 2020,
+    "gender": "ambiguous",
+    "position": "last",
+    "median_pct": 58.02,
+    "mean_pct": 54.49,
+    "n": 3443,
+    "top10_pct": 12.98,
+    "top25_pct": 31.83
+  },
+  {
+    "year": 2021,
+    "gender": "female",
+    "position": "first",
+    "median_pct": 53.22,
+    "mean_pct": 50.08,
+    "n": 28572,
+    "top10_pct": 9.24,
+    "top25_pct": 24.74
+  },
+  {
+    "year": 2021,
+    "gender": "female",
+    "position": "last",
+    "median_pct": 50.83,
+    "mean_pct": 49.51,
+    "n": 22118,
+    "top10_pct": 8.83,
+    "top25_pct": 23.95
+  },
+  {
+    "year": 2021,
+    "gender": "male",
+    "position": "first",
+    "median_pct": 50.83,
+    "mean_pct": 49.92,
+    "n": 38634,
+    "top10_pct": 11.36,
+    "top25_pct": 26.72
+  },
+  {
+    "year": 2021,
+    "gender": "male",
+    "position": "last",
+    "median_pct": 53.22,
+    "mean_pct": 50.41,
+    "n": 47453,
+    "top10_pct": 11.27,
+    "top25_pct": 26.71
+  },
+  {
+    "year": 2021,
+    "gender": "ambiguous",
+    "position": "first",
+    "median_pct": 57.71,
+    "mean_pct": 53.9,
+    "n": 5045,
+    "top10_pct": 14.15,
+    "top25_pct": 30.47
+  },
+  {
+    "year": 2021,
+    "gender": "ambiguous",
+    "position": "last",
+    "median_pct": 57.71,
+    "mean_pct": 53.21,
+    "n": 3422,
+    "top10_pct": 12.45,
+    "top25_pct": 30.65
+  },
+  {
+    "year": 2022,
+    "gender": "female",
+    "position": "first",
+    "median_pct": 51.29,
+    "mean_pct": 49.2,
+    "n": 27648,
+    "top10_pct": 8.92,
+    "top25_pct": 23.93
+  },
+  {
+    "year": 2022,
+    "gender": "female",
+    "position": "last",
+    "median_pct": 51.29,
+    "mean_pct": 48.46,
+    "n": 21629,
+    "top10_pct": 8.39,
+    "top25_pct": 23.37
+  },
+  {
+    "year": 2022,
+    "gender": "male",
+    "position": "first",
+    "median_pct": 51.29,
+    "mean_pct": 49.65,
+    "n": 35358,
+    "top10_pct": 11.23,
+    "top25_pct": 26.72
+  },
+  {
+    "year": 2022,
+    "gender": "male",
+    "position": "last",
+    "median_pct": 54.45,
+    "mean_pct": 50.35,
+    "n": 43639,
+    "top10_pct": 11.28,
+    "top25_pct": 26.82
+  },
+  {
+    "year": 2022,
+    "gender": "ambiguous",
+    "position": "first",
+    "median_pct": 57.3,
+    "mean_pct": 52.8,
+    "n": 4993,
+    "top10_pct": 14.14,
+    "top25_pct": 31.46
+  },
+  {
+    "year": 2022,
+    "gender": "ambiguous",
+    "position": "last",
+    "median_pct": 54.45,
+    "mean_pct": 51.19,
+    "n": 3514,
+    "top10_pct": 12.75,
+    "top25_pct": 30.39
+  },
+  {
+    "year": 2023,
+    "gender": "female",
+    "position": "first",
+    "median_pct": 53.49,
+    "mean_pct": 48.23,
+    "n": 26918,
+    "top10_pct": 9.11,
+    "top25_pct": 24.44
+  },
+  {
+    "year": 2023,
+    "gender": "female",
+    "position": "last",
+    "median_pct": 48.83,
+    "mean_pct": 47.34,
+    "n": 21778,
+    "top10_pct": 8.65,
+    "top25_pct": 23.4
+  },
+  {
+    "year": 2023,
+    "gender": "male",
+    "position": "first",
+    "median_pct": 48.83,
+    "mean_pct": 47.81,
+    "n": 36879,
+    "top10_pct": 11.59,
+    "top25_pct": 26.7
+  },
+  {
+    "year": 2023,
+    "gender": "male",
+    "position": "last",
+    "median_pct": 53.49,
+    "mean_pct": 48.53,
+    "n": 44529,
+    "top10_pct": 11.51,
+    "top25_pct": 26.91
+  },
+  {
+    "year": 2023,
+    "gender": "ambiguous",
+    "position": "first",
+    "median_pct": 57.65,
+    "mean_pct": 52.11,
+    "n": 5070,
+    "top10_pct": 13.75,
+    "top25_pct": 30.65
+  },
+  {
+    "year": 2023,
+    "gender": "ambiguous",
+    "position": "last",
+    "median_pct": 57.65,
+    "mean_pct": 51.28,
+    "n": 3651,
+    "top10_pct": 13.56,
+    "top25_pct": 30.54
+  },
+  {
+    "year": 2024,
+    "gender": "female",
+    "position": "first",
+    "median_pct": 51.31,
+    "mean_pct": 44.82,
+    "n": 26433,
+    "top10_pct": 8.64,
+    "top25_pct": 22.86
+  },
+  {
+    "year": 2024,
+    "gender": "female",
+    "position": "last",
+    "median_pct": 51.31,
+    "mean_pct": 44.75,
+    "n": 21730,
+    "top10_pct": 8.04,
+    "top25_pct": 22.49
+  },
+  {
+    "year": 2024,
+    "gender": "male",
+    "position": "first",
+    "median_pct": 51.31,
+    "mean_pct": 47.06,
+    "n": 34267,
+    "top10_pct": 11.82,
+    "top25_pct": 27.14
+  },
+  {
+    "year": 2024,
+    "gender": "male",
+    "position": "last",
+    "median_pct": 51.31,
+    "mean_pct": 47.28,
+    "n": 41703,
+    "top10_pct": 11.74,
+    "top25_pct": 26.98
+  },
+  {
+    "year": 2024,
+    "gender": "ambiguous",
+    "position": "first",
+    "median_pct": 58.63,
+    "mean_pct": 51.35,
+    "n": 5125,
+    "top10_pct": 14.69,
+    "top25_pct": 32.2
+  },
+  {
+    "year": 2024,
+    "gender": "ambiguous",
+    "position": "last",
+    "median_pct": 51.31,
+    "mean_pct": 49.2,
+    "n": 3828,
+    "top10_pct": 13.69,
+    "top25_pct": 30.25
+  },
+  {
+    "year": 2025,
+    "gender": "female",
+    "position": "first",
+    "median_pct": 0.0,
+    "mean_pct": 35.18,
+    "n": 26729,
+    "top10_pct": 8.81,
+    "top25_pct": 21.12
+  },
+  {
+    "year": 2025,
+    "gender": "female",
+    "position": "last",
+    "median_pct": 0.0,
+    "mean_pct": 33.84,
+    "n": 22623,
+    "top10_pct": 8.02,
+    "top25_pct": 19.7
+  },
+  {
+    "year": 2025,
+    "gender": "male",
+    "position": "first",
+    "median_pct": 53.29,
+    "mean_pct": 37.16,
+    "n": 33162,
+    "top10_pct": 11.55,
+    "top25_pct": 24.35
+  },
+  {
+    "year": 2025,
+    "gender": "male",
+    "position": "last",
+    "median_pct": 53.29,
+    "mean_pct": 37.45,
+    "n": 40494,
+    "top10_pct": 11.46,
+    "top25_pct": 24.46
+  },
+  {
+    "year": 2025,
+    "gender": "ambiguous",
+    "position": "first",
+    "median_pct": 53.29,
+    "mean_pct": 40.09,
+    "n": 5181,
+    "top10_pct": 12.82,
+    "top25_pct": 26.67
+  },
+  {
+    "year": 2025,
+    "gender": "ambiguous",
+    "position": "last",
+    "median_pct": 53.29,
+    "mean_pct": 39.47,
+    "n": 4128,
+    "top10_pct": 13.18,
+    "top25_pct": 26.5
+  }
+]
