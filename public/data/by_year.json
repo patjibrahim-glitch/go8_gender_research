@@ -28,9 +28,9 @@
       "ambiguous": 68
     },
     "single_author": {
-      "female": 0,
-      "male": 0,
-      "ambiguous": 0
+      "female": 1264,
+      "male": 3280,
+      "ambiguous": 133
     },
     "by_university": {
       "Australian National University": 15.19,
@@ -72,9 +72,9 @@
       "ambiguous": 79
     },
     "single_author": {
-      "female": 0,
-      "male": 0,
-      "ambiguous": 0
+      "female": 1384,
+      "male": 3670,
+      "ambiguous": 163
     },
     "by_university": {
       "Australian National University": 16.19,
@@ -116,9 +116,9 @@
       "ambiguous": 92
     },
     "single_author": {
-      "female": 0,
-      "male": 0,
-      "ambiguous": 0
+      "female": 1516,
+      "male": 3853,
+      "ambiguous": 173
     },
     "by_university": {
       "Australian National University": 16.62,
@@ -160,9 +160,9 @@
       "ambiguous": 140
     },
     "single_author": {
-      "female": 0,
-      "male": 0,
-      "ambiguous": 0
+      "female": 1640,
+      "male": 4073,
+      "ambiguous": 173
     },
     "by_university": {
       "Australian National University": 16.76,
@@ -204,9 +204,9 @@
       "ambiguous": 131
     },
     "single_author": {
-      "female": 0,
-      "male": 0,
-      "ambiguous": 0
+      "female": 1796,
+      "male": 4488,
+      "ambiguous": 184
     },
     "by_university": {
       "Australian National University": 18.68,
@@ -248,9 +248,9 @@
       "ambiguous": 153
     },
     "single_author": {
-      "female": 0,
-      "male": 0,
-      "ambiguous": 0
+      "female": 1934,
+      "male": 4269,
+      "ambiguous": 221
     },
     "by_university": {
       "Australian National University": 19.18,
@@ -292,9 +292,9 @@
       "ambiguous": 166
     },
     "single_author": {
-      "female": 0,
-      "male": 0,
-      "ambiguous": 0
+      "female": 2349,
+      "male": 5336,
+      "ambiguous": 239
     },
     "by_university": {
       "Australian National University": 18.11,
@@ -336,9 +336,9 @@
       "ambiguous": 190
     },
     "single_author": {
-      "female": 0,
-      "male": 0,
-      "ambiguous": 0
+      "female": 2661,
+      "male": 6335,
+      "ambiguous": 276
     },
     "by_university": {
       "Australian National University": 18.45,
@@ -380,9 +380,9 @@
       "ambiguous": 209
     },
     "single_author": {
-      "female": 0,
-      "male": 0,
-      "ambiguous": 0
+      "female": 3101,
+      "male": 7186,
+      "ambiguous": 303
     },
     "by_university": {
       "Australian National University": 17.01,
@@ -424,9 +424,9 @@
       "ambiguous": 234
     },
     "single_author": {
-      "female": 0,
-      "male": 0,
-      "ambiguous": 0
+      "female": 3050,
+      "male": 6507,
+      "ambiguous": 270
     },
     "by_university": {
       "Australian National University": 20.1,
@@ -468,9 +468,9 @@
       "ambiguous": 243
     },
     "single_author": {
-      "female": 0,
-      "male": 0,
-      "ambiguous": 0
+      "female": 3039,
+      "male": 6612,
+      "ambiguous": 268
     },
     "by_university": {
       "Australian National University": 20.03,
@@ -512,9 +512,9 @@
       "ambiguous": 281
     },
     "single_author": {
-      "female": 0,
-      "male": 0,
-      "ambiguous": 0
+      "female": 3159,
+      "male": 6340,
+      "ambiguous": 252
     },
     "by_university": {
       "Australian National University": 20.84,
@@ -556,9 +556,9 @@
       "ambiguous": 286
     },
     "single_author": {
-      "female": 0,
-      "male": 0,
-      "ambiguous": 0
+      "female": 3030,
+      "male": 6085,
+      "ambiguous": 273
     },
     "by_university": {
       "Australian National University": 22.86,
@@ -600,9 +600,9 @@
       "ambiguous": 361
     },
     "single_author": {
-      "female": 0,
-      "male": 0,
-      "ambiguous": 0
+      "female": 3229,
+      "male": 5803,
+      "ambiguous": 225
     },
     "by_university": {
       "Australian National University": 21.26,
@@ -644,9 +644,9 @@
       "ambiguous": 406
     },
     "single_author": {
-      "female": 0,
-      "male": 0,
-      "ambiguous": 0
+      "female": 3089,
+      "male": 5158,
+      "ambiguous": 260
     },
     "by_university": {
       "Australian National University": 23.83,
@@ -688,9 +688,9 @@
       "ambiguous": 481
     },
     "single_author": {
-      "female": 0,
-      "male": 0,
-      "ambiguous": 0
+      "female": 2843,
+      "male": 5349,
+      "ambiguous": 297
     },
     "by_university": {
       "Australian National University": 23.59,
@@ -732,9 +732,9 @@
       "ambiguous": 530
     },
     "single_author": {
-      "female": 0,
-      "male": 0,
-      "ambiguous": 0
+      "female": 2921,
+      "male": 5118,
+      "ambiguous": 291
     },
     "by_university": {
       "Australian National University": 25.52,
@@ -776,9 +776,9 @@
       "ambiguous": 546
     },
     "single_author": {
-      "female": 0,
-      "male": 0,
-      "ambiguous": 0
+      "female": 2673,
+      "male": 4789,
+      "ambiguous": 261
     },
     "by_university": {
       "Australian National University": 26.86,
@@ -820,9 +820,9 @@
       "ambiguous": 545
     },
     "single_author": {
-      "female": 0,
-      "male": 0,
-      "ambiguous": 0
+      "female": 2798,
+      "male": 4993,
+      "ambiguous": 355
     },
     "by_university": {
       "Australian National University": 25.41,
@@ -864,9 +864,9 @@
       "ambiguous": 561
     },
     "single_author": {
-      "female": 0,
-      "male": 0,
-      "ambiguous": 0
+      "female": 2388,
+      "male": 4412,
+      "ambiguous": 339
     },
     "by_university": {
       "Australian National University": 25.3,
@@ -908,9 +908,9 @@
       "ambiguous": 627
     },
     "single_author": {
-      "female": 0,
-      "male": 0,
-      "ambiguous": 0
+      "female": 2621,
+      "male": 4605,
+      "ambiguous": 399
     },
     "by_university": {
       "Australian National University": 24.59,
