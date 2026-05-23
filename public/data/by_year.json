@@ -3,924 +3,924 @@
     "year": 2005,
     "total": 26838,
     "absolute_counts": {
-      "female": 6039,
-      "male": 12582,
-      "ambiguous": 1004,
+      "female": 8267,
+      "male": 17044,
+      "ambiguous": 126,
       "single": 5027
     },
     "pipeline": {
-      "female_first_pct": 22.5,
-      "female_last_pct": 18.89,
-      "male_first_pct": 46.88,
-      "male_last_pct": 67.82
+      "female_first_pct": 30.8,
+      "female_last_pct": 21.39,
+      "male_first_pct": 63.51,
+      "male_last_pct": 73.3
     },
     "combos": {
-      "mm": 8959,
+      "mm": 10540,
       "single": 5027,
-      "unknown": 3889,
-      "fm": 3821,
-      "mf": 2026,
-      "ff": 1691,
-      "am": 661,
-      "ma": 441,
-      "af": 135,
-      "fa": 120,
-      "ambiguous": 68
+      "fm": 4722,
+      "mf": 2523,
+      "ff": 1991,
+      "um": 636,
+      "mu": 605,
+      "ambiguous": 273,
+      "unknown": 195,
+      "fu": 190,
+      "uf": 136
     },
     "single_author": {
-      "female": 1264,
-      "male": 3280,
-      "ambiguous": 133
+      "female": 1342,
+      "male": 3327,
+      "ambiguous": 15
     },
     "by_university": {
-      "Australian National University": 15.19,
-      "Monash University": 26.53,
-      "UNSW Sydney": 19.93,
-      "University of Adelaide": 24.29,
-      "University of Melbourne": 23.85,
-      "University of Queensland": 23.69,
-      "University of Sydney": 23.81,
-      "University of Western Australia": 21.2
+      "Australian National University": 23.28,
+      "Monash University": 34.94,
+      "UNSW Sydney": 27.87,
+      "University of Adelaide": 30.04,
+      "University of Melbourne": 32.35,
+      "University of Queensland": 33.48,
+      "University of Sydney": 32.27,
+      "University of Western Australia": 28.87
     }
   },
   {
     "year": 2006,
     "total": 30687,
     "absolute_counts": {
-      "female": 7090,
-      "male": 14388,
-      "ambiguous": 1263,
+      "female": 9672,
+      "male": 19415,
+      "ambiguous": 114,
       "single": 5546
     },
     "pipeline": {
-      "female_first_pct": 23.1,
-      "female_last_pct": 19.3,
-      "male_first_pct": 46.89,
-      "male_last_pct": 68.18
+      "female_first_pct": 31.52,
+      "female_last_pct": 22.02,
+      "male_first_pct": 63.27,
+      "male_last_pct": 73.39
     },
     "combos": {
-      "mm": 10328,
+      "mm": 12017,
+      "fm": 5637,
       "single": 5546,
-      "fm": 4540,
-      "unknown": 4161,
-      "mf": 2351,
-      "ff": 1945,
-      "am": 832,
-      "ma": 516,
-      "af": 209,
-      "fa": 180,
-      "ambiguous": 79
+      "mf": 3023,
+      "ff": 2323,
+      "um": 720,
+      "mu": 609,
+      "ambiguous": 230,
+      "unknown": 216,
+      "fu": 202,
+      "uf": 164
     },
     "single_author": {
-      "female": 1384,
-      "male": 3670,
-      "ambiguous": 163
+      "female": 1486,
+      "male": 3722,
+      "ambiguous": 16
     },
     "by_university": {
-      "Australian National University": 16.19,
-      "Monash University": 24.81,
-      "UNSW Sydney": 20.45,
-      "University of Adelaide": 24.83,
-      "University of Melbourne": 23.88,
-      "University of Queensland": 25.79,
-      "University of Sydney": 24.62,
-      "University of Western Australia": 23.52
+      "Australian National University": 23.73,
+      "Monash University": 34.57,
+      "UNSW Sydney": 28.63,
+      "University of Adelaide": 31.4,
+      "University of Melbourne": 33.05,
+      "University of Queensland": 35.11,
+      "University of Sydney": 32.6,
+      "University of Western Australia": 30.83
     }
   },
   {
     "year": 2007,
     "total": 32115,
     "absolute_counts": {
-      "female": 7639,
-      "male": 15117,
-      "ambiguous": 1259,
+      "female": 10328,
+      "male": 20392,
+      "ambiguous": 89,
       "single": 5850
     },
     "pipeline": {
-      "female_first_pct": 23.79,
-      "female_last_pct": 20.72,
-      "male_first_pct": 47.07,
-      "male_last_pct": 67.4
+      "female_first_pct": 32.16,
+      "female_last_pct": 23.64,
+      "male_first_pct": 63.5,
+      "male_last_pct": 72.37
     },
     "combos": {
-      "mm": 10671,
+      "mm": 12471,
+      "fm": 5876,
       "single": 5850,
-      "fm": 4767,
-      "unknown": 3963,
-      "mf": 2704,
-      "ff": 2251,
-      "am": 856,
-      "ma": 575,
-      "fa": 196,
-      "af": 190,
-      "ambiguous": 92
+      "mf": 3409,
+      "ff": 2619,
+      "um": 599,
+      "mu": 559,
+      "fu": 198,
+      "ambiguous": 197,
+      "uf": 169,
+      "unknown": 168
     },
     "single_author": {
-      "female": 1516,
-      "male": 3853,
-      "ambiguous": 173
+      "female": 1619,
+      "male": 3918,
+      "ambiguous": 6
     },
     "by_university": {
-      "Australian National University": 16.62,
-      "Monash University": 27.79,
-      "UNSW Sydney": 21.44,
-      "University of Adelaide": 25.57,
-      "University of Melbourne": 24.2,
-      "University of Queensland": 24.51,
-      "University of Sydney": 24.64,
-      "University of Western Australia": 24.68
+      "Australian National University": 25.9,
+      "Monash University": 36.37,
+      "UNSW Sydney": 30.52,
+      "University of Adelaide": 31.5,
+      "University of Melbourne": 33.6,
+      "University of Queensland": 32.29,
+      "University of Sydney": 32.91,
+      "University of Western Australia": 31.7
     }
   },
   {
     "year": 2008,
     "total": 35202,
     "absolute_counts": {
-      "female": 8763,
-      "male": 16246,
-      "ambiguous": 1478,
+      "female": 11769,
+      "male": 21922,
+      "ambiguous": 125,
       "single": 6139
     },
     "pipeline": {
-      "female_first_pct": 24.89,
-      "female_last_pct": 21.03,
-      "male_first_pct": 46.15,
-      "male_last_pct": 67.19
+      "female_first_pct": 33.43,
+      "female_last_pct": 23.93,
+      "male_first_pct": 62.27,
+      "male_last_pct": 71.89
     },
     "combos": {
-      "mm": 11512,
+      "mm": 13522,
+      "fm": 6561,
       "single": 6139,
-      "fm": 5380,
-      "unknown": 4503,
-      "mf": 2845,
-      "ff": 2704,
-      "am": 972,
-      "ma": 574,
-      "af": 224,
-      "fa": 209,
-      "ambiguous": 140
+      "mf": 3606,
+      "ff": 3176,
+      "um": 726,
+      "mu": 640,
+      "fu": 252,
+      "ambiguous": 239,
+      "unknown": 184,
+      "uf": 157
     },
     "single_author": {
-      "female": 1640,
-      "male": 4073,
-      "ambiguous": 173
+      "female": 1753,
+      "male": 4121,
+      "ambiguous": 16
     },
     "by_university": {
-      "Australian National University": 16.76,
-      "Monash University": 28.98,
-      "UNSW Sydney": 21.43,
-      "University of Adelaide": 25.49,
-      "University of Melbourne": 24.42,
-      "University of Queensland": 27.54,
-      "University of Sydney": 26.71,
-      "University of Western Australia": 25.01
+      "Australian National University": 24.87,
+      "Monash University": 37.56,
+      "UNSW Sydney": 30.59,
+      "University of Adelaide": 32.11,
+      "University of Melbourne": 33.57,
+      "University of Queensland": 36.14,
+      "University of Sydney": 35.59,
+      "University of Western Australia": 32.59
     }
   },
   {
     "year": 2009,
     "total": 38888,
     "absolute_counts": {
-      "female": 9794,
-      "male": 18092,
-      "ambiguous": 1646,
+      "female": 13122,
+      "male": 24184,
+      "ambiguous": 115,
       "single": 6748
     },
     "pipeline": {
-      "female_first_pct": 25.19,
-      "female_last_pct": 21.19,
-      "male_first_pct": 46.52,
-      "male_last_pct": 67.12
+      "female_first_pct": 33.74,
+      "female_last_pct": 24.02,
+      "male_first_pct": 62.19,
+      "male_last_pct": 72.14
     },
     "combos": {
-      "mm": 12889,
+      "mm": 15025,
+      "fm": 7347,
       "single": 6748,
-      "fm": 5967,
-      "unknown": 4610,
-      "mf": 3107,
-      "ff": 3073,
-      "am": 1150,
-      "ma": 745,
-      "fa": 249,
-      "af": 219,
-      "ambiguous": 131
+      "mf": 3934,
+      "ff": 3567,
+      "um": 719,
+      "mu": 634,
+      "fu": 258,
+      "ambiguous": 251,
+      "uf": 209,
+      "unknown": 196
     },
     "single_author": {
-      "female": 1796,
-      "male": 4488,
-      "ambiguous": 184
+      "female": 1921,
+      "male": 4543,
+      "ambiguous": 8
     },
     "by_university": {
-      "Australian National University": 18.68,
-      "Monash University": 27.91,
-      "UNSW Sydney": 20.9,
-      "University of Adelaide": 25.65,
-      "University of Melbourne": 25.44,
-      "University of Queensland": 27.14,
-      "University of Sydney": 27.04,
-      "University of Western Australia": 26.42
+      "Australian National University": 28.35,
+      "Monash University": 36.41,
+      "UNSW Sydney": 30.38,
+      "University of Adelaide": 32.14,
+      "University of Melbourne": 33.47,
+      "University of Queensland": 35.85,
+      "University of Sydney": 36.17,
+      "University of Western Australia": 33.41
     }
   },
   {
     "year": 2010,
     "total": 42324,
     "absolute_counts": {
-      "female": 11385,
-      "male": 19599,
-      "ambiguous": 1860,
+      "female": 15017,
+      "male": 25626,
+      "ambiguous": 91,
       "single": 6749
     },
     "pipeline": {
-      "female_first_pct": 26.9,
-      "female_last_pct": 21.82,
-      "male_first_pct": 46.31,
-      "male_last_pct": 67.14
+      "female_first_pct": 35.48,
+      "female_last_pct": 24.99,
+      "male_first_pct": 60.55,
+      "male_last_pct": 71.57
     },
     "combos": {
-      "mm": 14059,
-      "fm": 6917,
+      "mm": 16191,
+      "fm": 8417,
       "single": 6749,
-      "unknown": 4789,
-      "ff": 3585,
-      "mf": 3454,
-      "am": 1226,
-      "ma": 766,
-      "fa": 313,
-      "af": 313,
-      "ambiguous": 153
+      "mf": 4425,
+      "ff": 4259,
+      "um": 791,
+      "mu": 590,
+      "fu": 268,
+      "unknown": 235,
+      "ambiguous": 213,
+      "uf": 186
     },
     "single_author": {
-      "female": 1934,
-      "male": 4269,
-      "ambiguous": 221
+      "female": 2047,
+      "male": 4373,
+      "ambiguous": 8
     },
     "by_university": {
-      "Australian National University": 19.18,
-      "Monash University": 29.27,
-      "UNSW Sydney": 23.22,
-      "University of Adelaide": 26.77,
-      "University of Melbourne": 26.91,
-      "University of Queensland": 29.71,
-      "University of Sydney": 28.9,
-      "University of Western Australia": 28.18
+      "Australian National University": 28.14,
+      "Monash University": 37.93,
+      "UNSW Sydney": 31.96,
+      "University of Adelaide": 34.69,
+      "University of Melbourne": 35.33,
+      "University of Queensland": 37.91,
+      "University of Sydney": 38.18,
+      "University of Western Australia": 35.69
     }
   },
   {
     "year": 2011,
     "total": 47638,
     "absolute_counts": {
-      "female": 12797,
-      "male": 21468,
-      "ambiguous": 2145,
+      "female": 17180,
+      "male": 28700,
+      "ambiguous": 91,
       "single": 8199
     },
     "pipeline": {
-      "female_first_pct": 26.86,
-      "female_last_pct": 22.8,
-      "male_first_pct": 45.06,
-      "male_last_pct": 66.18
+      "female_first_pct": 36.06,
+      "female_last_pct": 25.64,
+      "male_first_pct": 60.25,
+      "male_last_pct": 70.84
     },
     "combos": {
-      "mm": 15134,
+      "mm": 17502,
+      "fm": 9496,
       "single": 8199,
-      "fm": 7662,
-      "unknown": 5488,
-      "ff": 4232,
-      "mf": 3937,
-      "am": 1411,
-      "ma": 761,
-      "af": 357,
-      "fa": 291,
-      "ambiguous": 166
+      "mf": 4963,
+      "ff": 4918,
+      "um": 867,
+      "mu": 772,
+      "fu": 261,
+      "unknown": 255,
+      "uf": 219,
+      "ambiguous": 186
     },
     "single_author": {
-      "female": 2349,
-      "male": 5336,
-      "ambiguous": 239
+      "female": 2496,
+      "male": 5430,
+      "ambiguous": 8
     },
     "by_university": {
-      "Australian National University": 18.11,
-      "Monash University": 30.17,
-      "UNSW Sydney": 23.9,
-      "University of Adelaide": 27.96,
-      "University of Melbourne": 27.37,
-      "University of Queensland": 28.53,
-      "University of Sydney": 27.87,
-      "University of Western Australia": 28.31
+      "Australian National University": 27.96,
+      "Monash University": 39.18,
+      "UNSW Sydney": 33.55,
+      "University of Adelaide": 35.87,
+      "University of Melbourne": 37.42,
+      "University of Queensland": 37.04,
+      "University of Sydney": 37.07,
+      "University of Western Australia": 37.18
     }
   },
   {
     "year": 2012,
     "total": 52470,
     "absolute_counts": {
-      "female": 14117,
-      "male": 22978,
-      "ambiguous": 2408,
+      "female": 19039,
+      "male": 31567,
+      "ambiguous": 90,
       "single": 9609
     },
     "pipeline": {
-      "female_first_pct": 26.9,
-      "female_last_pct": 23.28,
-      "male_first_pct": 43.79,
-      "male_last_pct": 65.62
+      "female_first_pct": 36.29,
+      "female_last_pct": 26.16,
+      "male_first_pct": 60.16,
+      "male_last_pct": 70.3
     },
     "combos": {
-      "mm": 16108,
+      "mm": 18752,
+      "fm": 10406,
       "single": 9609,
-      "fm": 8406,
-      "unknown": 6005,
-      "ff": 4624,
-      "mf": 4330,
-      "am": 1532,
-      "ma": 831,
-      "af": 487,
-      "fa": 348,
-      "ambiguous": 190
+      "mf": 5506,
+      "ff": 5465,
+      "um": 907,
+      "mu": 797,
+      "fu": 343,
+      "unknown": 248,
+      "uf": 228,
+      "ambiguous": 209
     },
     "single_author": {
-      "female": 2661,
-      "male": 6335,
-      "ambiguous": 276
+      "female": 2808,
+      "male": 6457,
+      "ambiguous": 11
     },
     "by_university": {
-      "Australian National University": 18.45,
-      "Monash University": 29.67,
-      "UNSW Sydney": 23.09,
-      "University of Adelaide": 28.32,
-      "University of Melbourne": 27.31,
-      "University of Queensland": 30.34,
-      "University of Sydney": 28.15,
-      "University of Western Australia": 26.57
+      "Australian National University": 28.05,
+      "Monash University": 39.26,
+      "UNSW Sydney": 33.51,
+      "University of Adelaide": 36.72,
+      "University of Melbourne": 38.01,
+      "University of Queensland": 39.1,
+      "University of Sydney": 36.96,
+      "University of Western Australia": 34.58
     }
   },
   {
     "year": 2013,
     "total": 57665,
     "absolute_counts": {
-      "female": 15720,
-      "male": 25195,
-      "ambiguous": 2615,
+      "female": 21343,
+      "male": 34556,
+      "ambiguous": 81,
       "single": 10866
     },
     "pipeline": {
-      "female_first_pct": 27.26,
-      "female_last_pct": 24.0,
-      "male_first_pct": 43.69,
-      "male_last_pct": 65.51
+      "female_first_pct": 37.01,
+      "female_last_pct": 27.01,
+      "male_first_pct": 59.93,
+      "male_last_pct": 69.83
     },
     "combos": {
-      "mm": 17783,
+      "mm": 20384,
+      "fm": 11358,
       "single": 10866,
-      "fm": 9201,
-      "unknown": 6007,
-      "ff": 5314,
-      "mf": 4832,
-      "am": 1652,
-      "ma": 862,
-      "af": 511,
-      "fa": 428,
-      "ambiguous": 209
+      "ff": 6287,
+      "mf": 6100,
+      "um": 884,
+      "mu": 754,
+      "fu": 397,
+      "uf": 237,
+      "unknown": 230,
+      "ambiguous": 168
     },
     "single_author": {
-      "female": 3101,
-      "male": 7186,
-      "ambiguous": 303
+      "female": 3290,
+      "male": 7293,
+      "ambiguous": 12
     },
     "by_university": {
-      "Australian National University": 17.01,
-      "Monash University": 31.44,
-      "UNSW Sydney": 24.39,
-      "University of Adelaide": 27.0,
-      "University of Melbourne": 27.63,
-      "University of Queensland": 30.35,
-      "University of Sydney": 28.61,
-      "University of Western Australia": 28.37
+      "Australian National University": 25.4,
+      "Monash University": 40.94,
+      "UNSW Sydney": 35.26,
+      "University of Adelaide": 36.06,
+      "University of Melbourne": 37.86,
+      "University of Queensland": 40.25,
+      "University of Sydney": 39.11,
+      "University of Western Australia": 36.18
     }
   },
   {
     "year": 2014,
     "total": 59448,
     "absolute_counts": {
-      "female": 16961,
-      "male": 26235,
-      "ambiguous": 2787,
+      "female": 22588,
+      "male": 35060,
+      "ambiguous": 95,
       "single": 10142
     },
     "pipeline": {
-      "female_first_pct": 28.53,
-      "female_last_pct": 25.02,
-      "male_first_pct": 44.13,
-      "male_last_pct": 65.04
+      "female_first_pct": 38.0,
+      "female_last_pct": 27.82,
+      "male_first_pct": 58.98,
+      "male_last_pct": 69.21
     },
     "combos": {
-      "mm": 18411,
+      "mm": 21146,
+      "fm": 12071,
       "single": 10142,
-      "fm": 9837,
-      "unknown": 6014,
-      "ff": 5933,
-      "mf": 5217,
-      "am": 1748,
-      "ma": 912,
-      "af": 583,
-      "fa": 417,
-      "ambiguous": 234
+      "ff": 6919,
+      "mf": 6523,
+      "um": 831,
+      "mu": 727,
+      "fu": 379,
+      "uf": 261,
+      "unknown": 251,
+      "ambiguous": 198
     },
     "single_author": {
-      "female": 3050,
-      "male": 6507,
-      "ambiguous": 270
+      "female": 3215,
+      "male": 6607,
+      "ambiguous": 8
     },
     "by_university": {
-      "Australian National University": 20.1,
-      "Monash University": 32.75,
-      "UNSW Sydney": 24.32,
-      "University of Adelaide": 27.48,
-      "University of Melbourne": 27.85,
-      "University of Queensland": 32.02,
-      "University of Sydney": 30.65,
-      "University of Western Australia": 28.3
+      "Australian National University": 31.64,
+      "Monash University": 41.68,
+      "UNSW Sydney": 34.59,
+      "University of Adelaide": 35.85,
+      "University of Melbourne": 38.21,
+      "University of Queensland": 40.62,
+      "University of Sydney": 39.74,
+      "University of Western Australia": 36.86
     }
   },
   {
     "year": 2015,
     "total": 62521,
     "absolute_counts": {
-      "female": 18138,
-      "male": 27630,
-      "ambiguous": 2973,
+      "female": 23874,
+      "male": 36794,
+      "ambiguous": 92,
       "single": 10181
     },
     "pipeline": {
-      "female_first_pct": 29.01,
-      "female_last_pct": 25.37,
-      "male_first_pct": 44.19,
-      "male_last_pct": 64.06
+      "female_first_pct": 38.19,
+      "female_last_pct": 28.61,
+      "male_first_pct": 58.85,
+      "male_last_pct": 68.3
     },
     "combos": {
-      "mm": 19129,
-      "fm": 10437,
+      "mm": 22157,
+      "fm": 12741,
       "single": 10181,
-      "unknown": 6573,
-      "ff": 6398,
-      "mf": 5565,
-      "am": 1859,
-      "ma": 1048,
-      "af": 644,
-      "fa": 444,
-      "ambiguous": 243
+      "ff": 7537,
+      "mf": 7130,
+      "mu": 811,
+      "um": 790,
+      "fu": 367,
+      "unknown": 355,
+      "uf": 288,
+      "ambiguous": 164
     },
     "single_author": {
-      "female": 3039,
-      "male": 6612,
-      "ambiguous": 268
+      "female": 3219,
+      "male": 6702,
+      "ambiguous": 6
     },
     "by_university": {
-      "Australian National University": 20.03,
-      "Monash University": 31.4,
-      "UNSW Sydney": 25.58,
-      "University of Adelaide": 28.39,
-      "University of Melbourne": 29.46,
-      "University of Queensland": 31.92,
-      "University of Sydney": 30.99,
-      "University of Western Australia": 30.37
+      "Australian National University": 30.59,
+      "Monash University": 40.23,
+      "UNSW Sydney": 35.22,
+      "University of Adelaide": 37.69,
+      "University of Melbourne": 39.36,
+      "University of Queensland": 40.52,
+      "University of Sydney": 39.8,
+      "University of Western Australia": 38.28
     }
   },
   {
     "year": 2016,
     "total": 67909,
     "absolute_counts": {
-      "female": 19522,
-      "male": 28960,
-      "ambiguous": 3322,
+      "female": 25697,
+      "male": 38074,
+      "ambiguous": 134,
       "single": 10019
     },
     "pipeline": {
-      "female_first_pct": 28.75,
-      "female_last_pct": 24.55,
-      "male_first_pct": 42.65,
-      "male_last_pct": 61.55
+      "female_first_pct": 37.84,
+      "female_last_pct": 27.61,
+      "male_first_pct": 56.07,
+      "male_last_pct": 65.56
     },
     "combos": {
-      "mm": 20141,
-      "fm": 11130,
+      "mm": 23248,
+      "fm": 13777,
       "single": 10019,
-      "unknown": 9060,
-      "ff": 7075,
-      "mf": 5812,
-      "am": 2097,
-      "ma": 1153,
-      "af": 657,
-      "fa": 484,
-      "ambiguous": 281
+      "ff": 8209,
+      "mf": 7498,
+      "unknown": 2580,
+      "mu": 852,
+      "um": 834,
+      "fu": 395,
+      "uf": 258,
+      "ambiguous": 239
     },
     "single_author": {
-      "female": 3159,
-      "male": 6340,
-      "ambiguous": 252
+      "female": 3302,
+      "male": 6447,
+      "ambiguous": 7
     },
     "by_university": {
-      "Australian National University": 20.84,
-      "Monash University": 27.02,
-      "UNSW Sydney": 25.62,
-      "University of Adelaide": 29.49,
-      "University of Melbourne": 30.32,
-      "University of Queensland": 31.67,
-      "University of Sydney": 32.31,
-      "University of Western Australia": 29.46
+      "Australian National University": 31.78,
+      "Monash University": 35.08,
+      "UNSW Sydney": 35.69,
+      "University of Adelaide": 38.26,
+      "University of Melbourne": 40.0,
+      "University of Queensland": 40.02,
+      "University of Sydney": 41.56,
+      "University of Western Australia": 37.51
     }
   },
   {
     "year": 2017,
     "total": 68364,
     "absolute_counts": {
-      "female": 20821,
-      "male": 30475,
-      "ambiguous": 3381,
+      "female": 26983,
+      "male": 39415,
+      "ambiguous": 98,
       "single": 9633
     },
     "pipeline": {
-      "female_first_pct": 30.46,
-      "female_last_pct": 26.18,
-      "male_first_pct": 44.58,
-      "male_last_pct": 63.54
+      "female_first_pct": 39.47,
+      "female_last_pct": 29.3,
+      "male_first_pct": 57.65,
+      "male_last_pct": 67.68
     },
     "combos": {
-      "mm": 21192,
-      "fm": 11572,
+      "mm": 24426,
+      "fm": 14327,
       "single": 9633,
-      "ff": 7771,
-      "unknown": 7119,
-      "mf": 6177,
-      "am": 2129,
-      "ma": 1247,
-      "af": 688,
-      "fa": 550,
-      "ambiguous": 286
+      "ff": 9020,
+      "mf": 7864,
+      "um": 921,
+      "mu": 878,
+      "fu": 446,
+      "unknown": 338,
+      "uf": 307,
+      "ambiguous": 204
     },
     "single_author": {
-      "female": 3030,
-      "male": 6085,
-      "ambiguous": 273
+      "female": 3181,
+      "male": 6210,
+      "ambiguous": 4
     },
     "by_university": {
-      "Australian National University": 22.86,
-      "Monash University": 32.09,
-      "UNSW Sydney": 26.61,
-      "University of Adelaide": 29.72,
-      "University of Melbourne": 30.57,
-      "University of Queensland": 32.49,
-      "University of Sydney": 33.87,
-      "University of Western Australia": 30.15
+      "Australian National University": 34.34,
+      "Monash University": 39.92,
+      "UNSW Sydney": 35.46,
+      "University of Adelaide": 39.09,
+      "University of Melbourne": 41.31,
+      "University of Queensland": 40.53,
+      "University of Sydney": 42.65,
+      "University of Western Australia": 38.14
     }
   },
   {
     "year": 2018,
     "total": 73375,
     "absolute_counts": {
-      "female": 23279,
-      "male": 32247,
-      "ambiguous": 3939,
+      "female": 30132,
+      "male": 41287,
+      "ambiguous": 104,
       "single": 9516
     },
     "pipeline": {
-      "female_first_pct": 31.73,
-      "female_last_pct": 26.28,
-      "male_first_pct": 43.95,
-      "male_last_pct": 63.64
+      "female_first_pct": 41.07,
+      "female_last_pct": 29.76,
+      "male_first_pct": 56.27,
+      "male_last_pct": 67.54
     },
     "combos": {
-      "mm": 22158,
-      "fm": 13343,
+      "mm": 25705,
+      "fm": 16495,
+      "ff": 9847,
       "single": 9516,
-      "ff": 8344,
-      "unknown": 7581,
-      "mf": 6847,
-      "am": 2516,
-      "ma": 1349,
-      "af": 728,
-      "fa": 632,
-      "ambiguous": 361
+      "mf": 8810,
+      "um": 856,
+      "mu": 820,
+      "fu": 434,
+      "unknown": 351,
+      "uf": 329,
+      "ambiguous": 212
     },
     "single_author": {
-      "female": 3229,
-      "male": 5803,
-      "ambiguous": 225
+      "female": 3337,
+      "male": 5921,
+      "ambiguous": 5
     },
     "by_university": {
-      "Australian National University": 21.26,
-      "Monash University": 34.48,
-      "UNSW Sydney": 32.53,
-      "University of Adelaide": 29.37,
-      "University of Melbourne": 32.26,
-      "University of Queensland": 32.31,
-      "University of Sydney": 33.45,
-      "University of Western Australia": 30.85
+      "Australian National University": 33.49,
+      "Monash University": 43.44,
+      "UNSW Sydney": 42.03,
+      "University of Adelaide": 38.14,
+      "University of Melbourne": 41.9,
+      "University of Queensland": 41.41,
+      "University of Sydney": 42.33,
+      "University of Western Australia": 39.23
     }
   },
   {
     "year": 2019,
     "total": 77693,
     "absolute_counts": {
-      "female": 24569,
-      "male": 35208,
-      "ambiguous": 4427,
+      "female": 31738,
+      "male": 43815,
+      "ambiguous": 141,
       "single": 8771
     },
     "pipeline": {
-      "female_first_pct": 31.62,
-      "female_last_pct": 27.0,
-      "male_first_pct": 45.32,
-      "male_last_pct": 62.32
+      "female_first_pct": 40.85,
+      "female_last_pct": 30.79,
+      "male_first_pct": 56.4,
+      "male_last_pct": 66.53
     },
     "combos": {
-      "mm": 23976,
-      "fm": 13449,
-      "ff": 9210,
+      "mm": 27808,
+      "fm": 17031,
+      "ff": 10968,
+      "mf": 9888,
       "single": 8771,
-      "unknown": 8287,
-      "mf": 7566,
-      "am": 2806,
-      "ma": 1570,
-      "af": 869,
-      "fa": 783,
-      "ambiguous": 406
+      "um": 919,
+      "mu": 811,
+      "fu": 499,
+      "unknown": 420,
+      "uf": 341,
+      "ambiguous": 237
     },
     "single_author": {
-      "female": 3089,
-      "male": 5158,
-      "ambiguous": 260
+      "female": 3230,
+      "male": 5279,
+      "ambiguous": 6
     },
     "by_university": {
-      "Australian National University": 23.83,
-      "Monash University": 34.54,
-      "UNSW Sydney": 27.5,
-      "University of Adelaide": 28.95,
-      "University of Melbourne": 33.32,
-      "University of Queensland": 32.68,
-      "University of Sydney": 34.6,
-      "University of Western Australia": 30.29
+      "Australian National University": 35.24,
+      "Monash University": 43.06,
+      "UNSW Sydney": 36.79,
+      "University of Adelaide": 38.67,
+      "University of Melbourne": 43.11,
+      "University of Queensland": 41.94,
+      "University of Sydney": 43.31,
+      "University of Western Australia": 38.45
     }
   },
   {
     "year": 2020,
     "total": 84980,
     "absolute_counts": {
-      "female": 27123,
-      "male": 38874,
-      "ambiguous": 4897,
+      "female": 34633,
+      "male": 48212,
+      "ambiguous": 105,
       "single": 8757
     },
     "pipeline": {
-      "female_first_pct": 31.92,
-      "female_last_pct": 28.0,
-      "male_first_pct": 45.74,
-      "male_last_pct": 61.26
+      "female_first_pct": 40.75,
+      "female_last_pct": 31.84,
+      "male_first_pct": 56.73,
+      "male_last_pct": 65.48
     },
     "combos": {
-      "mm": 25800,
-      "fm": 14733,
-      "ff": 10339,
-      "unknown": 9221,
-      "mf": 9013,
+      "mm": 30155,
+      "fm": 18682,
+      "ff": 12369,
+      "mf": 11593,
       "single": 8757,
-      "am": 3013,
-      "ma": 1726,
-      "af": 986,
-      "fa": 911,
-      "ambiguous": 481
+      "um": 1010,
+      "mu": 944,
+      "fu": 550,
+      "unknown": 427,
+      "uf": 283,
+      "ambiguous": 210
     },
     "single_author": {
-      "female": 2843,
-      "male": 5349,
-      "ambiguous": 297
+      "female": 3014,
+      "male": 5479,
+      "ambiguous": 4
     },
     "by_university": {
-      "Australian National University": 23.59,
-      "Monash University": 35.7,
-      "UNSW Sydney": 28.64,
-      "University of Adelaide": 29.25,
-      "University of Melbourne": 31.78,
-      "University of Queensland": 32.88,
-      "University of Sydney": 34.46,
-      "University of Western Australia": 31.91
+      "Australian National University": 33.7,
+      "Monash University": 43.91,
+      "UNSW Sydney": 37.87,
+      "University of Adelaide": 38.41,
+      "University of Melbourne": 40.99,
+      "University of Queensland": 41.29,
+      "University of Sydney": 42.86,
+      "University of Western Australia": 41.1
     }
   },
   {
     "year": 2021,
     "total": 86455,
     "absolute_counts": {
-      "female": 28572,
-      "male": 38634,
-      "ambiguous": 5045,
+      "female": 36417,
+      "male": 47779,
+      "ambiguous": 129,
       "single": 8696
     },
     "pipeline": {
-      "female_first_pct": 33.05,
-      "female_last_pct": 28.44,
-      "male_first_pct": 44.69,
-      "male_last_pct": 61.03
+      "female_first_pct": 42.12,
+      "female_last_pct": 32.26,
+      "male_first_pct": 55.26,
+      "male_last_pct": 65.11
     },
     "combos": {
-      "mm": 26018,
-      "fm": 15192,
-      "ff": 11244,
-      "unknown": 9454,
+      "mm": 30341,
+      "fm": 19241,
+      "ff": 13485,
+      "mf": 11237,
       "single": 8696,
-      "mf": 8598,
-      "am": 3058,
-      "ma": 1673,
-      "af": 1061,
-      "fa": 931,
-      "ambiguous": 530
+      "um": 970,
+      "mu": 948,
+      "fu": 555,
+      "unknown": 433,
+      "uf": 326,
+      "ambiguous": 223
     },
     "single_author": {
-      "female": 2921,
-      "male": 5118,
-      "ambiguous": 291
+      "female": 3111,
+      "male": 5224,
+      "ambiguous": 11
     },
     "by_university": {
-      "Australian National University": 25.52,
-      "Monash University": 37.06,
-      "UNSW Sydney": 28.62,
-      "University of Adelaide": 29.98,
-      "University of Melbourne": 34.21,
-      "University of Queensland": 33.56,
-      "University of Sydney": 35.96,
-      "University of Western Australia": 31.61
+      "Australian National University": 37.2,
+      "Monash University": 45.09,
+      "UNSW Sydney": 37.86,
+      "University of Adelaide": 39.93,
+      "University of Melbourne": 43.46,
+      "University of Queensland": 42.29,
+      "University of Sydney": 44.49,
+      "University of Western Australia": 41.15
     }
   },
   {
     "year": 2022,
     "total": 81401,
     "absolute_counts": {
-      "female": 27648,
-      "male": 35358,
-      "ambiguous": 4993,
+      "female": 35215,
+      "male": 44056,
+      "ambiguous": 92,
       "single": 7990
     },
     "pipeline": {
-      "female_first_pct": 33.97,
-      "female_last_pct": 29.46,
-      "male_first_pct": 43.44,
-      "male_last_pct": 59.44
+      "female_first_pct": 43.26,
+      "female_last_pct": 33.63,
+      "male_first_pct": 54.12,
+      "male_last_pct": 63.61
     },
     "combos": {
-      "mm": 23147,
-      "fm": 14337,
-      "ff": 11105,
-      "unknown": 9245,
-      "mf": 8336,
+      "mm": 27388,
+      "fm": 18339,
+      "ff": 13430,
+      "mf": 10867,
       "single": 7990,
-      "am": 3021,
-      "ma": 1649,
-      "af": 1054,
-      "fa": 971,
-      "ambiguous": 546
+      "um": 917,
+      "mu": 878,
+      "fu": 589,
+      "unknown": 452,
+      "uf": 362,
+      "ambiguous": 189
     },
     "single_author": {
-      "female": 2673,
-      "male": 4789,
-      "ambiguous": 261
+      "female": 2835,
+      "male": 4884,
+      "ambiguous": 12
     },
     "by_university": {
-      "Australian National University": 26.86,
-      "Monash University": 37.34,
-      "UNSW Sydney": 30.2,
-      "University of Adelaide": 32.46,
-      "University of Melbourne": 34.61,
-      "University of Queensland": 34.3,
-      "University of Sydney": 36.63,
-      "University of Western Australia": 32.57
+      "Australian National University": 38.86,
+      "Monash University": 45.33,
+      "UNSW Sydney": 40.17,
+      "University of Adelaide": 42.44,
+      "University of Melbourne": 44.48,
+      "University of Queensland": 43.61,
+      "University of Sydney": 45.48,
+      "University of Western Australia": 40.46
     }
   },
   {
     "year": 2023,
     "total": 83164,
     "absolute_counts": {
-      "female": 26918,
-      "male": 36879,
-      "ambiguous": 5070,
+      "female": 34823,
+      "male": 46149,
+      "ambiguous": 100,
       "single": 8507
     },
     "pipeline": {
-      "female_first_pct": 32.37,
-      "female_last_pct": 29.17,
-      "male_first_pct": 44.34,
-      "male_last_pct": 59.64
+      "female_first_pct": 41.87,
+      "female_last_pct": 33.43,
+      "male_first_pct": 55.49,
+      "male_last_pct": 63.99
     },
     "combos": {
-      "mm": 24301,
-      "fm": 13846,
-      "ff": 10843,
-      "unknown": 9698,
+      "mm": 28754,
+      "fm": 18056,
+      "ff": 13220,
+      "mf": 11333,
       "single": 8507,
-      "mf": 8486,
-      "am": 3024,
-      "ma": 1793,
-      "af": 1124,
-      "fa": 997,
-      "ambiguous": 545
+      "um": 897,
+      "mu": 892,
+      "fu": 518,
+      "unknown": 422,
+      "uf": 383,
+      "ambiguous": 182
     },
     "single_author": {
-      "female": 2798,
-      "male": 4993,
-      "ambiguous": 355
+      "female": 3009,
+      "male": 5135,
+      "ambiguous": 10
     },
     "by_university": {
-      "Australian National University": 25.41,
-      "Monash University": 36.19,
-      "UNSW Sydney": 28.98,
-      "University of Adelaide": 31.0,
-      "University of Melbourne": 33.97,
-      "University of Queensland": 33.41,
-      "University of Sydney": 32.51,
-      "University of Western Australia": 31.57
+      "Australian National University": 37.54,
+      "Monash University": 45.13,
+      "UNSW Sydney": 38.97,
+      "University of Adelaide": 40.58,
+      "University of Melbourne": 43.62,
+      "University of Queensland": 42.47,
+      "University of Sydney": 41.87,
+      "University of Western Australia": 39.81
     }
   },
   {
     "year": 2024,
     "total": 79444,
     "absolute_counts": {
-      "female": 26433,
-      "male": 34267,
-      "ambiguous": 5125,
+      "female": 34048,
+      "male": 43121,
+      "ambiguous": 112,
       "single": 7458
     },
     "pipeline": {
-      "female_first_pct": 33.27,
-      "female_last_pct": 30.19,
-      "male_first_pct": 43.13,
-      "male_last_pct": 57.93
+      "female_first_pct": 42.86,
+      "female_last_pct": 34.8,
+      "male_first_pct": 54.28,
+      "male_last_pct": 62.43
     },
     "combos": {
-      "mm": 21943,
-      "fm": 13319,
-      "ff": 10842,
-      "unknown": 10047,
-      "mf": 8237,
+      "mm": 26465,
+      "fm": 17529,
+      "ff": 13366,
+      "mf": 11224,
       "single": 7458,
-      "am": 2981,
-      "ma": 1871,
-      "af": 1170,
-      "fa": 1015,
-      "ambiguous": 561
+      "um": 880,
+      "mu": 856,
+      "fu": 531,
+      "unknown": 486,
+      "uf": 427,
+      "ambiguous": 222
     },
     "single_author": {
-      "female": 2388,
-      "male": 4412,
-      "ambiguous": 339
+      "female": 2605,
+      "male": 4532,
+      "ambiguous": 10
     },
     "by_university": {
-      "Australian National University": 25.3,
-      "Monash University": 36.29,
-      "UNSW Sydney": 30.07,
-      "University of Adelaide": 28.97,
-      "University of Melbourne": 34.45,
-      "University of Queensland": 34.75,
-      "University of Sydney": 35.77,
-      "University of Western Australia": 32.15
+      "Australian National University": 37.53,
+      "Monash University": 45.18,
+      "UNSW Sydney": 40.15,
+      "University of Adelaide": 39.27,
+      "University of Melbourne": 44.11,
+      "University of Queensland": 43.75,
+      "University of Sydney": 45.23,
+      "University of Western Australia": 40.4
     }
   },
   {
     "year": 2025,
     "total": 80405,
     "absolute_counts": {
-      "female": 26729,
-      "male": 33162,
-      "ambiguous": 5181,
+      "female": 34784,
+      "male": 42306,
+      "ambiguous": 217,
       "single": 8061
     },
     "pipeline": {
-      "female_first_pct": 33.24,
-      "female_last_pct": 31.27,
-      "male_first_pct": 41.24,
-      "male_last_pct": 55.97
+      "female_first_pct": 43.26,
+      "female_last_pct": 36.23,
+      "male_first_pct": 52.62,
+      "male_last_pct": 60.55
     },
     "combos": {
-      "mm": 20783,
-      "fm": 12867,
-      "ff": 11384,
-      "unknown": 11351,
-      "mf": 8241,
+      "mm": 25499,
+      "fm": 17136,
+      "ff": 14201,
+      "mf": 11357,
       "single": 8061,
-      "am": 2952,
-      "ma": 1849,
-      "fa": 1152,
-      "af": 1138,
-      "ambiguous": 627
+      "um": 1038,
+      "mu": 887,
+      "unknown": 619,
+      "fu": 614,
+      "uf": 599,
+      "ambiguous": 394
     },
     "single_author": {
-      "female": 2621,
-      "male": 4605,
-      "ambiguous": 399
+      "female": 2871,
+      "male": 4714,
+      "ambiguous": 47
     },
     "by_university": {
-      "Australian National University": 24.59,
-      "Monash University": 35.51,
-      "UNSW Sydney": 30.13,
-      "University of Adelaide": 31.42,
-      "University of Melbourne": 33.61,
-      "University of Queensland": 34.31,
-      "University of Sydney": 35.88,
-      "University of Western Australia": 33.64
+      "Australian National University": 37.59,
+      "Monash University": 44.69,
+      "UNSW Sydney": 40.85,
+      "University of Adelaide": 41.54,
+      "University of Melbourne": 44.11,
+      "University of Queensland": 43.2,
+      "University of Sydney": 45.4,
+      "University of Western Australia": 44.02
     }
   }
 ]
